@@ -33,10 +33,6 @@ label {
     position: relative;
 }
 
-label:hover {
-    background: #346f9e;
-}
-
 label::after {
 	font-family: "Font Awesome 5 Free";
 	content: "\271A";
@@ -68,17 +64,3 @@ input:checked + label + .content {
 	
 </style>
 
-
-	
-
-	
-
-
-
-
-
-	
-
-	
-
-	

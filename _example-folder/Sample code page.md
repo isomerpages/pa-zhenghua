@@ -3,27 +3,42 @@ title: Sample code page
 permalink: /example-folder/permalink/
 description: ""
 ---
-<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Sample:</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p><input type="checkbox" id="E"><label for="E" style="background-color: #60C090; color:#f7f7f7;"><b>E</b></label><div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </p></div><input type="checkbox" id="H"><label for="H" style="background-color: #E58265; color:#f7f7f7;"><b>H</b></label><div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div><input type="checkbox" id="L"><label for="L" style="background-color: #7573B5; color:#f7f7f7;"><b>L</b></label><div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div><input type="checkbox" id="S"><label for="S" style="background-color: #F05A4D; color:#f7f7f7;"><b>S</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Sample:</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
+<input type="checkbox" id="E">
+<label for="E" style="background-color: #60C090; color:#f7f7f7;"><b>E</b></label>
+<div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </p></div>
+<input type="checkbox" id="H">
+<label for="H" style="background-color: #E58265; color:#f7f7f7;"><b>H</b></label>
+<div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div>
+<input type="checkbox" id="L">
+<label for="L" style="background-color: #7573B5; color:#f7f7f7;"><b>L</b></label>
+<div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div>
+<input type="checkbox" id="S">
+<label for="S" style="background-color: #F05A4D; color:#f7f7f7;"><b>S</b></label>
+<div class="content" style="background-color:#edf4fa;">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
-Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div><table style="font-size:120%">
+Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div>
+<table style="font-size:120%">
 	
 
 
 <style>
-
-td {
+	td 
+	{
 		display: table-cell;
 		vertical-align: middle;
-}
-	
-input {
-    display: none;
-}
+	}
 
-label {
+	input
+	{
+    display: none;
+	}
+
+	label 
+	{
     display: block;    
 	  font-size: 120%;
     padding: 10px 30px;
@@ -33,42 +48,47 @@ label {
     border-radius: 3px;
     color: #FFF;
     transition: ease .5s;
-	position: relative;
-}
+		position: relative;
+	}
 
-label:hover {
+	label:hover
+	{
     background: #346f9e;
-}
+	}
 
-label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
+	label::after 
+	{
+		font-family: "Font Awesome 5 Free";
+		content: '\271A';
+		font-weight: bold;
+		font-size: 22px;
+		position: absolute;
+		right: 10px;
+		top: 6px;
+	}
 
-input:checked + label::after {
-	content: '\2716';
-}
+	input:checked + label::after
+	{
+		content: '\2716';
+	}
 
-.content {
+	.content 
+	{
     background: #FFFFFF;
     padding: 10px 25px;
     margin: 0 0 1px 0;
     border-radius: 3px;
-}
+	}
 
-input + label + .content {
+	input + label + .content
+	{
     display: none;
-}
+	}
 
-input:checked + label + .content {
+	input:checked + label + .content
+	{
     display: block;
-}
-	
+	}
 </style>
 
 

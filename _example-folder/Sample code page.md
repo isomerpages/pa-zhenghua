@@ -66,7 +66,7 @@ input + label + .content {
 }
 
 input:checked + label + .content {
-    display: block;
+    display: none;
 }
 	
 </style>

@@ -57,10 +57,8 @@ input:checked + label::after {
 input + label + .content {
     display: none;
 }
-
 input:checked + label + .content {
     display: block;
 }
 	
 </style>
-

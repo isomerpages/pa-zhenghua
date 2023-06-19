@@ -3,9 +3,13 @@ title: Sample code page
 permalink: /example-folder/permalink/
 description: ""
 ---
-<p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;"></p><input type="checkbox" id="Sample"><label for="Sample" style="background-color: #60C090; color:#f7f7f7;"><b>Sample</b></label><div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </p></div><table style="font-size:120%">
+
 	
+<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Sample  :</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p><input type="checkbox" id="Sample 1"><label for="Sample 1" style="background-color: #60C090; color:#f7f7f7;"><b>Sample 1</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem IpsumLorem Ipsum Lorem Ipsum .</p></div><table style="font-size:120%">
+	
+
+
 <style>
 
 td {
@@ -61,7 +65,9 @@ input + label + .content {
 
 input:checked + label + .content {
     display: block;
-}</style>
+}
+	
+</style>
 
 
 	

@@ -3,12 +3,18 @@ title: Sample code page
 permalink: /example-folder/permalink/
 description: ""
 ---
-<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Sample :</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
-<input type="checkbox" id="Sample 1"><label for="Sample 1" style="background-color: #60C090; color:#f7f7f7;"><b>Sample 1</b></label><div class="content" style="background-color:#edf4fa;"><p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem IpsumLorem Ipsum Lorem Ipsum .</p></div>
 
-<table style="font-size:120%">
+<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Sample:</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p><input type="checkbox" id="E"><label for="E" style="background-color: #60C090; color:#f7f7f7;"><b>E</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </p></div><input type="checkbox" id="Healthy Living"><label for="H" style="background-color: #E58265; color:#f7f7f7;"><b>H</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div><input type="checkbox" id="L"><label for="L" style="background-color: #7573B5; color:#f7f7f7;"><b>L</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div><input type="checkbox" id="Social Good"><label for="S" style="background-color: #F05A4D; color:#f7f7f7;"><b>S</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
+Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div><table style="font-size:120%">
 	
+
+
 <style>
+
 td {
 		display: table-cell;
 		vertical-align: middle;
@@ -65,4 +71,19 @@ input:checked + label + .content {
 }
 	
 </style>
+
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+	
 </table>

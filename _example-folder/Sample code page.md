@@ -10,7 +10,6 @@ description: ""
 <div class="content" style="background-color:#edf4fa;">
 	<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Text 3</p></div>
 
-<table style="font-size:120%">
 	
 
 <style>
@@ -85,4 +84,3 @@ input:checked + label + .content {
 	
 
 	
-</table>

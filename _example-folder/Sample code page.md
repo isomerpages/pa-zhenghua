@@ -48,7 +48,7 @@ input
 	{
 		content: '\2716';
 	}
-.content 
+content 
 	{
     background: #FFFFFF;
     padding: 10px 25px;

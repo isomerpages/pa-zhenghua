@@ -13,7 +13,6 @@ description: ""
 	
 
 <style>
-
 td {
 		display: table-cell;
 		vertical-align: middle;
@@ -31,7 +30,7 @@ label {
     border-radius: 3px;
     color: #FFF;
     transition: ease .5s;
-	 position: relative;
+	  position: relative;
 }
 label:hover {
     background: #346f9e;

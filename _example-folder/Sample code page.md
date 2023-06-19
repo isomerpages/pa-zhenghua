@@ -56,20 +56,5 @@ input + label + .content {
 input:checked + label + .content {
     display: block;
 }
-</style>
-
-
-	
-
-	
-
-
-
-
-
-	
-
-	
-
-	
+</style>	
 </table>

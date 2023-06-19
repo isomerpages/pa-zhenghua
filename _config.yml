@@ -52,4 +52,4 @@ plugins:
 staging: https://staging.d32hj0xgtb86qn.amplifyapp.com
 prod: https://master.d32hj0xgtb86qn.amplifyapp.com
 facebook-pixel: ""
-resources_name: resources-for-youth
+resources_name: all-resources

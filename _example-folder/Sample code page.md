@@ -6,7 +6,8 @@ description: ""
 <p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>HHH 1:</b></p>
 <p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 <input type="checkbox" id="Environment">
-<label for="Environment" style="background-color: #60C090; color:#f7f7f7;"><b>Text 2</b></label><div class="content" style="background-color:#edf4fa;"><p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Text 3</p></div>
+<label for="Environment" style="background-color: #60C090; color:#f7f7f7;"><b>Text 2</b></label>
+<div class="content" style="background-color:#edf4fa;"><p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Text 3</p></div>
 
 <table style="font-size:120%">
 	

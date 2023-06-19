@@ -60,7 +60,6 @@ input:checked + label::after {
     margin: 0 0 1px 0;
     border-radius: 3px;
 }
-
 input + label + .content {
     display: none;
 }
@@ -70,17 +69,3 @@ input:checked + label + .content {
 }
 	
 </style>
-
-
-	
-
-	
-
-
-
-
-
-
-	
-
-	

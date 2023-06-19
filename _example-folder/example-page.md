@@ -10,7 +10,7 @@ permalink: /example-page/
 
 <table width="100%">
 <tbody><tr>
-<td style="text-align:center" width="70%">
+<td style="text-align:center" width="50%">
 <img src="https://www.adorama.com/alc/wp-content/uploads/2021/05/bird-wings-flying-feature.gif"></td>
 	<td style="text-align:left" width="auto">  
 

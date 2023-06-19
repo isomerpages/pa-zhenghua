@@ -3,11 +3,12 @@ title: Sample code page
 permalink: /example-folder/permalink/
 description: ""
 ---
-<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Sample:</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
-<input type="checkbox" id="E">
-<label for="E" style="background-color: #60C090; color:#f7f7f7;"><b>E</b></label>
-<div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </p></div>
+
+	
+<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Text A:</b></p><p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p><input type="checkbox" id="Environment"><label for="Environment" style="background-color: #60C090; color:#f7f7f7;"><b>E</b></label><div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">ABC</p></div><table style="font-size:120%">
+	
+
 
 <style>
 
@@ -22,7 +23,7 @@ input {
 
 label {
     display: block;    
-    font-size: 120%;
+	  font-size: 120%;
     padding: 10px 30px;
     margin: 0 0 1px 0;
     cursor: pointer;
@@ -30,12 +31,16 @@ label {
     border-radius: 3px;
     color: #FFF;
     transition: ease .5s;
-    position: relative;
+	position: relative;
+}
+
+label:hover {
+    background: #346f9e;
 }
 
 label::after {
 	font-family: "Font Awesome 5 Free";
-	content: "\271A";
+	content: '\271A';
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
@@ -57,8 +62,25 @@ input:checked + label::after {
 input + label + .content {
     display: none;
 }
+
 input:checked + label + .content {
     display: block;
 }
 	
 </style>
+
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+	
+</table>

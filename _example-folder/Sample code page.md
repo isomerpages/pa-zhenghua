@@ -8,35 +8,15 @@ description: ""
 <label for="E" style="background-color: #60C090; color:#f7f7f7;"><b>E</b></label>
 <div class="content" style="background-color:#edf4fa;">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </p></div>
-<input type="checkbox" id="H">
-<label for="H" style="background-color: #E58265; color:#f7f7f7;"><b>H</b></label>
-<div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div>
-<input type="checkbox" id="L">
-<label for="L" style="background-color: #7573B5; color:#f7f7f7;"><b>L</b></label>
-<div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div>
-<input type="checkbox" id="S">
-<label for="S" style="background-color: #F05A4D; color:#f7f7f7;"><b>S</b></label>
-<div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
-Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p></div>
+
 <table style="font-size:120%">
-	
 
 
 <style>
-	td 
-	{
-		display: table-cell;
-		vertical-align: middle;
-	}
-
-	input
+input
 	{
     display: none;
 	}
-
 	label 
 	{
     display: block;    
@@ -50,12 +30,10 @@ Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p
     transition: ease .5s;
 		position: relative;
 	}
-
 	label:hover
 	{
     background: #346f9e;
 	}
-
 	label::after 
 	{
 		font-family: "Font Awesome 5 Free";
@@ -66,43 +44,24 @@ Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p
 		right: 10px;
 		top: 6px;
 	}
-
 	input:checked + label::after
 	{
 		content: '\2716';
 	}
-
-	.content 
+.content 
 	{
     background: #FFFFFF;
     padding: 10px 25px;
     margin: 0 0 1px 0;
     border-radius: 3px;
 	}
-
 	input + label + .content
 	{
     display: none;
 	}
-
 	input:checked + label + .content
 	{
     display: block;
 	}
 </style>
-
-
-	
-
-	
-
-
-
-
-
-	
-
-	
-
-	
 </table>

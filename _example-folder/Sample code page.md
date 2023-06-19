@@ -18,11 +18,9 @@ td {
 		display: table-cell;
 		vertical-align: middle;
 }
-	
 input {
     display: none;
 }
-
 label {
     display: block;    
 	  font-size: 120%;
@@ -35,11 +33,9 @@ label {
     transition: ease .5s;
 	 position: relative;
 }
-
 label:hover {
     background: #346f9e;
 }
-
 label::after {
 	font-family: "Font Awesome 5 Free";
 	content: '\271A';
@@ -49,11 +45,9 @@ label::after {
 	right: 10px;
 	top: 6px;
 }
-
 input:checked + label::after {
 	content: '\2716';
 }
-
 .content {
     background: #FFFFFF;
     padding: 10px 25px;
@@ -63,7 +57,6 @@ input:checked + label::after {
 input + label + .content {
     display: none;
 }
-
 input:checked + label + .content {
     display: block;
 }

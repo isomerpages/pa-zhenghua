@@ -2,6 +2,7 @@ collections:
   get-support:
     output: true
     order:
+      - Ulu Pandan.md
       - Cashew.md
       - Bukit Timah.md
       - Bukit Panjang.md

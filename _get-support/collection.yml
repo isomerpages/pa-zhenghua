@@ -2,5 +2,6 @@ collections:
   get-support:
     output: true
     order:
+      - Bukit Timah.md
       - Bukit Panjang.md
       - General.md

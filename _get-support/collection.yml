@@ -2,9 +2,9 @@ collections:
   get-support:
     output: true
     order:
-      - Zhenghua.md
-      - Ulu Pandan.md
-      - Cashew.md
-      - Bukit Timah.md
-      - Bukit Panjang.md
       - General.md
+      - Bukit Panjang.md
+      - Bukit Timah.md
+      - Cashew.md
+      - Ulu Pandan.md
+      - Zhenghua.md

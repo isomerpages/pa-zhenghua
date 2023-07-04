@@ -2,8 +2,8 @@ collections:
   stories:
     output: true
     order:
-      - Zhenghua.md
-      - Ulu Pandan.md
-      - Cashew.md
       - Bukit Timah.md
       - Bukit Pajang.md
+      - Cashew.md
+      - Ulu Pandan.md
+      - Zhenghua.md

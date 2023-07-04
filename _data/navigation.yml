@@ -6,6 +6,12 @@ links:
     url: /wellbeing-map
   - title: Resources
     resource_room: true
+  - title: Stories
+    collection: stories
+  - title: Events
+    collection: events
+  - title: Get Support
+    collection: get-support
   - title: Contact Us
     url: /contact-us/
   - title: Example Folder

@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - Message from our Advisers.md
       - About the campaign.md

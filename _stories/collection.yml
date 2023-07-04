@@ -2,5 +2,6 @@ collections:
   stories:
     output: true
     order:
+      - Cashew.md
       - Bukit Timah.md
       - Bukit Pajang.md

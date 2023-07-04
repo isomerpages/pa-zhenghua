@@ -1,4 +1,5 @@
 collections:
   get-support:
     output: true
-    order: []
+    order:
+      - General.md

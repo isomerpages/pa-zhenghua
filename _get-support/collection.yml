@@ -1,0 +1,4 @@
+collections:
+  get-support:
+    output: true
+    order: []

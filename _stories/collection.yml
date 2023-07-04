@@ -2,4 +2,5 @@ collections:
   stories:
     output: true
     order:
+      - Bukit Timah.md
       - Bukit Pajang.md

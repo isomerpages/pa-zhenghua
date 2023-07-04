@@ -13,40 +13,36 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Art Exhibition
+          description: ""
+          url: /art-installation
+        - title: Wellbeing Map
+          description: ""
+          url: /wellbeing-map
+        - title: Resources
+          description: ""
+          url: /resources
+  - infopic:
+      title: Crochet Art Installations
+      subtitle: Art Exhibition
+      description: "[insert description]"
+      button: Learn More
+      alt: Image alt text
+      url: /art-installation
+  - infopic:
+      title: Photo Contest
+      subtitle: Social Media Competition
+      description: "[insert description]"
+      button: Join in
+      alt: Image alt text
+      url: /events
+  - infopic:
+      title: Wellbeing Map
+      description: "[insert description]"
+      button: Explore Map
+      url: /wellbeing-map
+      alt: Image alt text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Resources
+      button: View more
 ---

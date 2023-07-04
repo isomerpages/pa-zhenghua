@@ -14,22 +14,15 @@ locations:
         description: Closed on Public Holidays
     maps_link: ""
     title: Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6310 6702
+      - email: ""
       - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+    title: Phone Number
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: PA_zhenghuacc@pa.gov.sg
       - other: ""
-    title: Careers
+    title: Email Address
 ---

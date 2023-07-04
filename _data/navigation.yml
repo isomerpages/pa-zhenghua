@@ -1,8 +1,41 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About
+    url: /about
+    sublinks:
+      - title: About the campaign
+        url: /about-the-campaign
+      - title: Message from our advisers
+        url: /message-from-our-advisers
+      - title: About the committee
+        url: /aboout-the-committee
+  - title: Wellbeing Map
+    url: /wellbeing-map
+  - title: Resources
+    resource_room: true
+  - title: Stories
+    url: /stories
+    sublinks:
+      - title: Bukit Panjang
+        url: /bukit-panjang
+      - title: Bukit Timah
+        url: /bukit-timah
+      - title: Cashew
+        url: /cashew
+      - title: Ulu Pandan
+        url: /ulu-pandan
+      - title: Zhenghua
+        url: /zhenghua
+  - title: Events
+    url: /events
+    sublinks:
+      - title: All Events
+        url: /all-events
+      - title: FGD
+        url: /fgd
+      - title: Art Installations
+        url: /art-installations
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
     collection: example-folder

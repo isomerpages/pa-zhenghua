@@ -35,6 +35,21 @@ links:
         url: /fgd
       - title: Art Installations
         url: /art-installations
+  - title: Get Support
+    url: /get-support
+    sublinks:
+      - title: General
+        url: /general-support
+      - title: Bukit Panjang
+        url: /bukit-panjang-support
+      - title: Bukit Timah
+        url: /bukit-timah-support
+      - title: Cashew
+        url: cashew-support
+      - title: Ulu Pandan
+        url: /ulu-pandan-support
+      - title: Zhenghua
+        url: /zhenghua-support
   - title: Contact Us
     url: /contact-us/
   - title: Example Folder

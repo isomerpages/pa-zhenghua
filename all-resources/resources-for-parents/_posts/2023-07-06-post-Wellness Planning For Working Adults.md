@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+# Wellness Planning For Working Adults
+Creating a wellness plan is beneficial but often overlooked.

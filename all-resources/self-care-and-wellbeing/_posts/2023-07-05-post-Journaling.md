@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+# Journaling
+Journaling has been found to have a positive effect on mental health, and also provides the opportunity for self-exploration.

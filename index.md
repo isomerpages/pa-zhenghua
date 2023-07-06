@@ -8,9 +8,9 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Lean On Me
-      subtitle: "[insert one-liner]"
-      background: /images/hero-banner.png
-      button: Contact Us
+      subtitle: Your Mental Wellbeing Friend
+      background: /images/landing banner.jpg
+      button: Be
       url: /contact-us/
       key_highlights:
         - title: Art Exhibition

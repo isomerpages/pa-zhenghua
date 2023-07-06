@@ -10,7 +10,7 @@ sections:
       title: Lean On Me
       subtitle: Your Mental Wellbeing Friend
       background: /images/landing banner.jpg
-      button: Be
+      button: Become a befriender
       url: /contact-us/
       key_highlights:
         - title: Art Exhibition

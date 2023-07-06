@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: Lean On Me
 description: An Isomer site of the Singapore Government
-image: /images/lean on me logo.svg
+image: /images/lean on me logo jpg.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:

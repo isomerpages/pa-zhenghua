@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+# Reducing Stress Through Mindfulness
+Mindfulness is the skill of intentionally bring awareness to the present moment without judgement.

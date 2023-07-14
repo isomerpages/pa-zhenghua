@@ -9,7 +9,7 @@ description: ""
 
 We are here to bring our community together, providing vital platforms for all our residents to connect with one another and foster a sense of belonging.
 
-Supported by our dedicated team of volunteers, we host a range of year-round activities and initiatives, bringing neighbours together and creating a close-knit community. These fall under our four key pillars below.
+Our dedicated team of volunteers organise a range of activities and initiatives year-round, bringing neighbours together and creating a close-knit community. These fall under our four key pillars below.
 
 | Key Pillars | Objectives | 
 | -------- | -------- | 

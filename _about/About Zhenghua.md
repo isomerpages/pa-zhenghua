@@ -7,10 +7,10 @@ description: ""
 
 #### #ZhenghuaWhereWe Belong
 
-!![zhenghua where we belong]()
 
 We are here to bring our community together, providing vital opportunities for all our residents to connect with one another and foster a sense of belonging.
 
+![zhwwb](/images/zhenghua%20where%20we%20belong.jpg)
 Our dedicated team of volunteers organise a range of activities and initiatives year-round, bringing neighbours together and creating a close-knit community. 
 
 Zhenghua seeks to provide a better neighbourhood for our residents to live and play as one community, through our four key pillars below.

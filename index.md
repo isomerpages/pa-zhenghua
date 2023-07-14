@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Lean On Me
-      subtitle: Your Mental Wellbeing Friend
+      subtitle: A Zhenghua-led Initiative.
       background: /images/landing banner.jpg
       button: Become a befriender
       url: /contact-us/

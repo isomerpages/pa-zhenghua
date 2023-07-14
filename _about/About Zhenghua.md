@@ -3,10 +3,11 @@ title: About Zhenghua
 permalink: /about/about-zhenghua/
 description: ""
 ---
-# Zhenghua, Where We Belong
+# Welcome to Zhenghua!
 
-**Welcome to Zhenghua Community Club (CC)!**
+#### #ZhenghuaWhereWe Belong
 
+!![zhenghua where we belong]()
 
 We are here to bring our community together, providing vital opportunities for all our residents to connect with one another and foster a sense of belonging.
 

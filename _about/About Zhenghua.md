@@ -7,7 +7,6 @@ description: ""
 
 #### #ZhenghuaWhereWe Belong
 
-
 We are here to bring our community together, providing vital opportunities for all our residents to connect with one another and foster a sense of belonging.
 
 Our dedicated team of volunteers organise a range of activities and initiatives year-round, bringing neighbours together and creating a close-knit community. 

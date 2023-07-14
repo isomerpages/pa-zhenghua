@@ -2,7 +2,7 @@
 layout: homepage
 title: Lean On Me
 description: An Isomer site of the Singapore Government
-image: /images/zhenghua cc pa logo.jpg
+image: /images/zhenghua cc pa logo .jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:

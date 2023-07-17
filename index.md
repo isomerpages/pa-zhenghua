@@ -11,7 +11,7 @@ sections:
       subtitle: A Zhenghua-led Initiative.
       background: /images/landing banner.jpg
       button: Become a befriender
-      url: /contact-us/
+      url: https://form.gov.sg/64a67b082c3f110011c98233
       key_highlights:
         - title: Art Exhibition
           description: ""

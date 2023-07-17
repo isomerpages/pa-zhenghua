@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/zhenghua - lom logo.jpg
 colors:
   primary-color: "#e41b23"
-  secondary-color: "#f72b60"
+  secondary-color: "#e41b23"
   media-colors:
     - title: media-color-one
       color: "#35a1f4"

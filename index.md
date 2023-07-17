@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: Crochet Art Installations
       subtitle: Art Exhibition
-      description: These yarnbombing artpieces are created by local crochet artists,
-        with contributions
+      description: "These yarnbombing art pieces are created by local crochet artists,
+        with contributions from the community. "
       button: Learn More
       alt: Image alt text
       url: /art-installation
@@ -34,10 +34,13 @@ sections:
   - infopic:
       title: Photo Contest
       subtitle: Social Media Competition
-      description: "[insert description]"
+      description: These unique yarnbombing pieces are perfect for your next social
+        media photo op, so check them out while you can! Also, we have some fun
+        giveaway opportunities!
       button: Join in
       alt: Image alt text
       url: /events
+      image: /images/social media competition.gif
   - infopic:
       title: Wellbeing Map
       button: Explore Map

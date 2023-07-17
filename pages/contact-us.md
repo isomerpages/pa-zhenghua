@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6310 6702
       - email: ""
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: Phone Number
   - content:
       - phone: ""

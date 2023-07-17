@@ -25,10 +25,12 @@ sections:
   - infopic:
       title: Crochet Art Installations
       subtitle: Art Exhibition
-      description: "[insert description]"
+      description: These yarnbombing artpieces are created by local crochet artists,
+        with contributions
       button: Learn More
       alt: Image alt text
       url: /art-installation
+      image: /images/signages.gif
   - infopic:
       title: Photo Contest
       subtitle: Social Media Competition
@@ -38,7 +40,6 @@ sections:
       url: /events
   - infopic:
       title: Wellbeing Map
-      description: "[insert description]"
       button: Explore Map
       url: /wellbeing-map
       alt: Image alt text

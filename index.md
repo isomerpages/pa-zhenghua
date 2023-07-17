@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Lean On Me
-      subtitle: A Zhenghua-led Initiative.
+      subtitle: A Zhenghua-led Initiative
       background: /images/landing banner.jpg
       button: Become a befriender
       url: https://form.gov.sg/64a67b082c3f110011c98233

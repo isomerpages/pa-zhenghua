@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Lean On Me
+title: Zhenghua CC
 description: An Isomer site of the Singapore Government
 image: /images/zhenghua cc pa logo .jpg
 permalink: /

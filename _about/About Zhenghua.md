@@ -5,7 +5,7 @@ description: ""
 ---
 # Welcome to Zhenghua!
 
-#### #ZhenghuaWhereWe Belong
+#### #ZhenghuaWhereWeBelong
 
 We are here to bring our community together, providing vital opportunities for all our residents to connect with one another and foster a sense of belonging.
 

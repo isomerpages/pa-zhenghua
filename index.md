@@ -4,7 +4,7 @@ title: Lean On Me
 description: An Isomer site of the Singapore Government
 image: /images/zhenghua cc pa logo .jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Lean On Me
@@ -21,7 +21,7 @@ sections:
           url: /wellbeing-map
         - title: Resources
           description: ""
-          url: /resources
+          url: /all-resources
   - infopic:
       title: Crochet Art Installations
       subtitle: Art Exhibition

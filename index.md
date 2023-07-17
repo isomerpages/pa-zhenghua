@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: Crochet Art Installations
       subtitle: Art Exhibition
-      description: These yarnbombing art pieces are created by local crochet artists,
-        with contributions from the community.
+      description: Lean On Me's yarnbombing exhibition aims to foster mental wellbeing
+        and strengthen community bonds through the transformative power of art.
       button: Learn More
       alt: Image alt text
       url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing

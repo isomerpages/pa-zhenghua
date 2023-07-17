@@ -29,7 +29,7 @@ sections:
         with contributions from the community.
       button: Learn More
       alt: Image alt text
-      url: /art-installation
+      url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing
       image: /images/signages.gif
   - infopic:
       title: Photo Contest

@@ -32,14 +32,14 @@ sections:
       url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing
       image: /images/signages.gif
   - infopic:
-      title: Photo Contest
-      subtitle: Social Media Competition
+      title: Giveaway
+      subtitle: "Social Media "
       description: These unique yarnbombing pieces are perfect for your next social
         media photo op, so check them out while you can! Also, we have some fun
         giveaway opportunities!
       button: Join in
       alt: Image alt text
-      url: /events
+      url: http://go.gov.sg/leanonme-giveaway
       image: /images/social media competition.gif
   - infopic:
       title: Wellbeing Map

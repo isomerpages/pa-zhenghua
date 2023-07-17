@@ -1,5 +1,0 @@
-collections:
-  get-support:
-    output: true
-    order:
-      - General.md

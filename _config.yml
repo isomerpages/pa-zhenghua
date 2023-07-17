@@ -1,5 +1,5 @@
 title: Lean On Me
-url: https://www.open.gov.sg
+url: https://www.zhenghua.pa.gov.sg
 favicon: /images/zhenghua cc pa logo .jpg
 colors:
   primary-color: "#e41b23"
@@ -54,7 +54,7 @@ prod: https://master.d32hj0xgtb86qn.amplifyapp.com
 facebook-pixel: ""
 resources_name: all-resources
 shareicon: /images/zhenghua cc pa logo .jpg
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""

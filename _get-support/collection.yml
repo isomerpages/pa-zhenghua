@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General.md
-      - Bukit Timah.md
       - Cashew.md
       - Ulu Pandan.md
       - Zhenghua.md

@@ -46,8 +46,9 @@ sections:
       button: Explore Map
       url: /wellbeing-map
       alt: Image alt text
-      description: Looking for your next wellbeing activity? Check out our wellbeing
-        map featuring our top spots!
+      description: Explore curated nature spots, consider new recreational activities
+        and connect with the relevant professional support in your
+        neighbourhood.
       image: /images/wellbeing map.gif
   - resources:
       title: Resources

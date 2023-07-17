@@ -1,6 +1,6 @@
 title: Lean On Me
 url: https://www.open.gov.sg
-favicon: /images/zhenghua cc pa logo .jpg
+favicon: /images/zhenghua - lom logo.jpg
 colors:
   primary-color: "#e41b23"
   secondary-color: "#f72b60"
@@ -53,7 +53,7 @@ staging: https://staging.d32hj0xgtb86qn.amplifyapp.com
 prod: https://master.d32hj0xgtb86qn.amplifyapp.com
 facebook-pixel: ""
 resources_name: all-resources
-shareicon: /images/zhenghua cc pa logo .jpg
+shareicon: /images/zhenghua - lom logo.jpg
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""

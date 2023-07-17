@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - General.md
-      - Ulu Pandan.md
       - Zhenghua.md

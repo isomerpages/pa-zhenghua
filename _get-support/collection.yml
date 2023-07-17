@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - General.md
-      - Cashew.md
       - Ulu Pandan.md
       - Zhenghua.md

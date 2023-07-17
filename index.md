@@ -33,7 +33,7 @@ sections:
       image: /images/signages.gif
   - infopic:
       title: Giveaway
-      subtitle: "Social Media "
+      subtitle: Social Media
       description: These unique yarnbombing pieces are perfect for your next social
         media photo op, so check them out while you can! Also, we have some fun
         giveaway opportunities!

@@ -56,12 +56,15 @@ PA reserves the right to disable any unauthorized links or frames and disclaims 
 Where you undertake any interactive communication with or provide any information or data to PA through the use of any service available within this Web Site, you are required to ensure that it is not misleading or inaccurate, does not violate any applicable laws or rights, and does not contain or will not import any viruses or other disabling devices which may interfere, damage, intercept, access or expropriate any system, data or information of PA or other third parties.
 
 #### **On Use of Web Site**
+
 You agree that you will not:
 
-1.  use any robot, spider, other automatic device, or manual process to monitor or copy any pages or materials within this Web Site or the Contents without PA’s prior written permission;
-2.  use any device, software or routine to interfere or attempt to interfere with the proper working of this Web Site;
-3.  and/or take any action that imposes an unreasonable or disproportionately large load on PA’s servers.
+1 .  use any robot, spider, other automatic device, or manual process to monitor or copy any pages or materials within this Web Site or the Contents without PA’s prior written permission;
 
+2 . use any device, software or routine to interfere or attempt to interfere with the proper working of this Web Site;
+
+3 . and/or take any action that imposes an unreasonable or disproportionately large load on PA’s servers.
+ 
 #### **On Exclusion of Liability**
 
 To the fullest extent permitted by law, PA shall in no event be liable for any damages, loss or expense, direct or indirect, including but without limitation, special or consequential damage, or economic loss arising from or in connection with:

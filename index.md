@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Art Exhibition
           description: ""
-          url: /art-installation
+          url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing
         - title: Wellbeing Map
           description: ""
           url: /wellbeing-map

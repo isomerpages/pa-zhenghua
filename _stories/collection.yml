@@ -1,0 +1,9 @@
+collections:
+  stories:
+    output: true
+    order:
+      - Bukit Timah.md
+      - Bukit Panjang.md
+      - Cashew.md
+      - Ulu Pandan.md
+      - Zhenghua.md

@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/zhenghua - lom logo.jpg
 links:
+  - title: About
+    collection: about
+  - title: Wellbeing Map
+    url: /wellbeing-map
+  - title: Resources
+    resource_room: true
+  - title: Stories
+    collection: stories
+  - title: Lean On Me Events
+    collection: events
+  - title: Get Support
+    url: /get-support/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

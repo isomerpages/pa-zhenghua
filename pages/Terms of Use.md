@@ -69,8 +69,8 @@ You agree that you will not:
 
 To the fullest extent permitted by law, PA shall in no event be liable for any damages, loss or expense, direct or indirect, including but without limitation, special or consequential damage, or economic loss arising from or in connection with:
 
-1.  any access, use or inability to access or use this Web Site, or reliance on the materials in this Web Site; and/or (similar to “Disclaimer of Warranties and Liability)
-2.  any failure of performance, system, server or connection failure, interruption, defect, error, omission, delay in operation or transmission, breach of security, malicious code, computer virus or inability or unavailability to use or access in connection with your accessing this Web Site, tools, and/or online services;
+1 .  any access, use or inability to access or use this Web Site, or reliance on the materials in this Web Site; and/or (similar to “Disclaimer of Warranties and Liability)
+2 .  any failure of performance, system, server or connection failure, interruption, defect, error, omission, delay in operation or transmission, breach of security, malicious code, computer virus or inability or unavailability to use or access in connection with your accessing this Web Site, tools, and/or online services;
 
 Even if PA or its employees are advised of the possibility of such damages, losses and/or expenses.
 

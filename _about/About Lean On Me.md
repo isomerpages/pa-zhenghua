@@ -3,8 +3,8 @@ title: About Lean On Me
 permalink: /about/about-the-initiative/
 description: ""
 ---
-# About the campaign 
-With a vision to see communities and households genuinely care beyond what’s on the surface and support each other through life’s ups and downs - Lean On Me is the beginning of a year-long mental wellbeing initiative in Holland-Bukit Timah GRC and Bukit Panjang SMC. All five divisions from both constituencies have come together to help residents prioritise their wellbeing as a life-long practice, and not just when times are tough.
+# About the initiative 
+With a vision to see communities and households genuinely care beyond what’s on the surface and support each other through life’s ups and downs - Lean On Me is a mental wellbeing initiative in Holland-Bukit Timah GRC and Bukit Panjang SMC. All five divisions have come together to help residents prioritise their wellbeing as a life-long practice, and not just when times are tough.
 
 # Message from our Grassroots Advisers
 "Lean On Me” is a resident-centered initiative that aims to support and promote mental wellness in our community. Our main goal is to create a positive and joyful living environment for all.

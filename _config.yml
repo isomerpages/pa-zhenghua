@@ -1,6 +1,6 @@
 title: Zhenghua CC
 url: https://www.zhenghua.pa.gov.sg
-favicon: /images/logos 19 jul.jpeg
+favicon: /images/logos 19 jul 2.jpeg
 colors:
   primary-color: "#e41b23"
   secondary-color: "#e41b23"
@@ -53,7 +53,7 @@ staging: https://staging.d32hj0xgtb86qn.amplifyapp.com
 prod: https://master.d32hj0xgtb86qn.amplifyapp.com
 facebook-pixel: ""
 resources_name: all-resources
-shareicon: /images/logos 19 jul.jpeg
+shareicon: /images/logos 19 jul 2.jpeg
 is_government: true
 google_analytics: ""
 google_analytics_ga4: ""

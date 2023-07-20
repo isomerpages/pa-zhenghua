@@ -1,10 +1,10 @@
 ---
 title: A Caregiver's Guide to Avoid Burnout
-permalink: /all-resources/resources-for-caregivers/a-caregivers-guide-to-avoid-burnout/
 date: 2023-07-06
-layout: post
+layout: file
 description: ""
 image: ""
+file_url: /files/a caregiver's guide to avoid burnout.pdf
 ---
 # A Caregiver's Guide to Avoid Burnout
 Learn to manage your responsibilities and take care of your well-being.

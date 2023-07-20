@@ -13,6 +13,9 @@ sections:
       button: Become a befriender
       url: https://form.gov.sg/64a67b082c3f110011c98233
       key_highlights:
+        - title: About Lean On Me
+          description: ""
+          url: /about/about-the-initiative
         - title: Art Exhibition
           description: ""
           url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing

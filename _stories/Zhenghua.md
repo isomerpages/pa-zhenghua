@@ -3,7 +3,7 @@ title: Zhenghua
 permalink: /stories/zhenghua/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FLbyW_ur_IM" height="315" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FLbyW_ur_IM" height="600" width="100%"></iframe>
 
 Nora grew up equating love with hurt. In her younger days, due to her upbringing with an overbearing parent, she found herself gravitating towards friends and family that mimicked the controlling and manipulative types in an attempt to ‘find shelter’.
 

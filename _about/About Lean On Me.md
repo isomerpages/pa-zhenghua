@@ -20,4 +20,3 @@ To achieve this, we have created a dedicated website that serves as a valuable c
 The website offers a variety of things, such as activities, assistance programs, and video interviews with our own residents sharing their experiences and best practices on mental wellness. These videos aim to reduce the stigma around struggling and encourage people to seek help when they need it. We hope that this platform can be a starting point for everyone, providing basic information on finding relaxation and seeking assistance.
 
 To prioritise our well-being as a community, it’s important that we come together and help those in need. We also invite residents who are interested to become befrienders. Let’s join forces and embark on this journey together, promoting a culture of support and compassion. By doing so, we can create an environment where we all feel valued, cared for, and empowered to overcome challenges in life.
-

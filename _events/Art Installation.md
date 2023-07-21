@@ -10,4 +10,4 @@ We believe that art has a unique power to heal and connect us on a deeper level.
 
 Today, we stand in awe of the collective effort and dedication put forth by these 100 residents who have poured their hearts into Lean On Me's yarnbombing exhibition. We extend our heartfelt gratitude to each and every contributor, as this installation stands as a living testament to the power of unity and the transformational impact of community-driven initiatives.
 
-**[http://go.gov.sg/leanonme-giveaway](http://go.gov.sg/leanonme-giveaway)**
+<a style="color: #000000 !important; font-size: 1.25rem; text-transform: none;" href="http://go.gov.sg/leanonme-giveaway"><button style="background-color: #d39703; padding: 8px 16px">JOIN THE GIVEAWAY</button></a>

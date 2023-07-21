@@ -10,8 +10,8 @@ sections:
       title: Lean On Me
       subtitle: A Zhenghua Initiative with Holland-Bukit Timah and Bukit Panjang GROs
       background: /images/landing banner.jpg
-      button: Become a befriender
-      url: https://form.gov.sg/64a67b082c3f110011c98233
+      button: About Lean On Me
+      url: /about/about-the-initiative
       key_highlights:
         - title: Stories
           description: ""

@@ -49,7 +49,7 @@ sections:
       description: Explore curated nature spots, consider new recreational activities
         and connect with the relevant professional support in your
         neighbourhood.
-      image: /images/wellbeing map.gif
+      image: /images/wellbeing map - revised.gif
   - resources:
       title: Resources
       button: View more

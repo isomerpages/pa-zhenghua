@@ -27,4 +27,4 @@ The website offers a variety of things, such as activities, assistance programs,
 To prioritise our wellbeing as a community, it’s important that we come together and help those in need. We also invite residents who are interested to become befrienders. Let’s join forces and embark on this journey together, promoting a culture of support and compassion. By doing so, we can create an environment where we all feel valued, cared for, and empowered to overcome challenges in life.
 
 
-<a style="color: #e41b23 !important; font-size: 1.25rem; text-transform: none;" href="http://go.gov.sg/zbn">BECOME A BEFRIENDER ➜</a>
+<a style="color: #e41b23 !important;" href="http://go.gov.sg/zbn">BECOME A BEFRIENDER ➜</a>

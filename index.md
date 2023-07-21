@@ -39,7 +39,7 @@ sections:
       button: Join in
       alt: Image alt text
       url: http://go.gov.sg/leanonme-giveaway
-      image: /images/social media competition.gif
+      image: /images/updated gif for giveaway section.gif
   - infopic:
       title: Wellbeing Map
       button: Explore Map

@@ -11,6 +11,6 @@ Through the discerning lens of these focus group discussions, our collective com
 
 It is with great conviction and a profound sense of responsibility that we forge ahead, utilizing the knowledge gleaned from the focus group discussions as a catalyst for transformative change. Our mission is resolute: to implement initiatives that nurture mental wellbeing, in tandem with our overarching objective of enhancing the overall quality of life for our residents.
 
-<button style="background-color: #e41b23; padding: 16px 16px; padding-bottom: 0px;"><a href="https://zhenghua.pa.gov.sg/files/fgd report summary.pdf">Read FGD Report Summary</a></button>
+<a style="font-color: #ffffff; text-transform: none;" href="https://zhenghua.pa.gov.sg/files/fgd report summary.pdf"><button style="background-color: #e41b23; padding: 8px 16px"><div style="font-color: white;">Read FGD Report Summary</div></button></a>
 
 ![](/images/fgd%20gif.gif)

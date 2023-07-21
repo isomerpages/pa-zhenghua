@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Stories
           description: ""
-          url: /stories
+          url: stories/bukit-timah/
         - title: Wellbeing Map
           description: ""
           url: /wellbeing-map

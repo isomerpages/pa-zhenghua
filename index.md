@@ -30,7 +30,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing
-      image: /images/signages.gif
+      image: /images/crochet installations.gif
   - infopic:
       title: Giveaway
       subtitle: Art Exhibition

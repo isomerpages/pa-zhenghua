@@ -13,10 +13,10 @@ description: ""
     [https://www.samhealth.org.sg](https://www.samhealth.org.sg)<br>
 Toll-free helpline: 1800-283-7019
 <br>
-* Samaritans of Singapore (SOS)
+* Samaritans of Singapore (SOS)<br>
 [https://www.sos.org.sg](https://www.sos.org.sg)<br>
 24-hour hotline: 1-767
 <br>
-* Silver Ribbon
+* Silver Ribbon<br>
 [http://www.silverribbonsingapore.com](http://www.silverribbonsingapore.com)<br>
 Hotline: 6385-3714

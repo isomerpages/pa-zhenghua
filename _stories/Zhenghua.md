@@ -9,4 +9,4 @@ Nora grew up equating love with hurt. In her younger days, due to her upbringing
 
 One day, Nora experienced a severe stroke and ended up in a coma. When she awoke, she found herself with physical and mental deficiencies. Nora had to experience extensive surgery and rehabilitation before she could regain control of her life. With the support of her loved ones, Nora healed.
 
-Today, In the same way, Nora now tries to be supportive and takes care of the people around her the same way others did for her. Nora is still on a recovery journey and is on a mission to check things off her Aspiration list!
+Nora now tries to be supportive and takes care of the people around her the same way others did for her. Nora is still on a recovery journey and is on a mission to check things off her aspiration list!

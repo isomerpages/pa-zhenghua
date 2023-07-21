@@ -1,6 +1,6 @@
 ---
 title: Wellness Planning For Working Adults
-date: 2023-07-06
+date: 2023-07-20
 layout: file
 description: ""
 image: ""

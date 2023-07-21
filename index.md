@@ -34,9 +34,8 @@ sections:
   - infopic:
       title: Giveaway
       subtitle: Art Exhibition
-      description: These unique yarnbombing pieces are perfect for your next social
-        media photo op, so check them out while you can! Also, we have some fun
-        giveaway opportunities!
+      description: These unique crochet art installations are perfect for your next
+        social media photo op. Snap a pic and stand a chance to win some prizes!
       button: Join in
       alt: Image alt text
       url: http://go.gov.sg/leanonme-giveaway

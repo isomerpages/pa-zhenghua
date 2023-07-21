@@ -12,11 +12,7 @@ With a vision to see communities and households genuinely care beyond what’s o
 
 # Message from our Grassroots Advisers
 ![](/images/advisers%20(1).jpg)
-*From left to right: Mr Liang Eng Hwa - Grassroots Adviser, Bukit Panjang,
- Mr Edward Chia Bing Hui - Grassroots Adviser, Zhenghua,
-Dr Vivian Balakrishnan - Grassroots Adviser, Cashew,
-Ms Sim Ann - Grassroots Adviser, Bukit Timah,
-Mr Christopher de Souza - Grassroots Adviser, Ulu Pandan*
+*From left to right: Mr Liang Eng Hwa, Grassroots Adviser, Bukit Panjang; Mr Edward Chia Bing Hui, Grassroots Adviser, Zhenghua; Dr Vivian Balakrishnan, Grassroots Adviser, Cashew; Ms Sim Ann, Grassroots Adviser, Bukit Timah; Mr Christopher de Souza, Grassroots Adviser, Ulu Pandan*
     
 
 ***

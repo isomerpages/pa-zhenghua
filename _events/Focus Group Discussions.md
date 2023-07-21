@@ -3,6 +3,8 @@ title: Focus Group Discussions
 permalink: /events/fgd/
 description: ""
 ---
+![](/images/fgd%20gif.gif)
+
 In pursuit of a strategic and targeted approach, an essential component of our methodology involved the conduct of focus group discussions (FGD). These deliberative sessions served as a valuable means to collect indispensable findings and insights. The information garnered therein became the bedrock upon which the committee meticulously crafted and programmed a series of purposeful strategic events, meticulously tailored to cater to the distinct needs of our esteemed residents.
 
 
@@ -13,4 +15,3 @@ It is with great conviction and a profound sense of responsibility that we forge
 
 <a style="color: #000000 !important; font-size: 1.25rem; text-transform: none;" href="https://zhenghua.pa.gov.sg/files/fgd report summary.pdf"><button style="background-color: #d39703; padding: 8px 16px">Read FGD Report Summary</button></a>
 
-![](/images/fgd%20gif.gif)

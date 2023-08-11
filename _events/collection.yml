@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - All Events.md
       - Focus Group Discussions.md
       - Art Installation.md

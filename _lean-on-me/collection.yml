@@ -1,4 +1,5 @@
 collections:
   lean-on-me:
     output: true
-    order: []
+    order:
+      - Get Support.md

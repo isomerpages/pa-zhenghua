@@ -2,5 +2,6 @@ collections:
   lean-on-me:
     output: true
     order:
+      - About Lean On Me.md
       - Wellbeing Map.md
       - Get Support.md

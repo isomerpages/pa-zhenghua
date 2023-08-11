@@ -2,7 +2,6 @@ collections:
   lean-on-me:
     output: true
     order:
-      - About Lean On Me.md
       - Wellbeing Map.md
       - Resources/.keep
       - Resources/Resources for Youth.md

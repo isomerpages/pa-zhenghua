@@ -9,4 +9,3 @@ We believe that art has a unique power to heal and connect us on a deeper level.
 
 Today, we stand in awe of the collective effort and dedication put forth by these 100 residents who have poured their hearts into Lean On Me's crochet art installations. We extend our heartfelt gratitude to each and every contributor, as this installation stands as a living testament to the power of unity and the transformational impact of community-driven initiatives.
 
-<a style="color: #e41b23 !important;" href="http://go.gov.sg/leanonme-giveaway">JOIN THE GIVEAWAY ➜</a>

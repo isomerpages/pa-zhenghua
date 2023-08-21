@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Public Forum Event.md
       - All Events.md
+      - Public Forum Event.md
       - Focus Group Discussions.md
       - Art Installation.md

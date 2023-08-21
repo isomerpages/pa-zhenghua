@@ -4,7 +4,7 @@ permalink: /lean-on-me/resources/permalink/
 description: ""
 third_nav_title: Resources
 ---
-#### Downloadable Resources
+#### Links and Downloadable Resources
 * [Mini Guide Youth](/files/mini-guide%20youth.pdf)
 * [Proteens Singapore](https://proteens.sg/index.php)
 * [Play Therapy Singapore](https://www.playtherapysingapore.com/playtherapyforpre-teensandteens)

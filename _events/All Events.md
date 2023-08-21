@@ -5,7 +5,7 @@ description: ""
 ---
 Are you ready to embark on a journey of joy, relaxation, and all-around good vibes? Buckle up and keep those eyes sparkling as we unveil a calendar filled to the brim with delightful mental wellbeing events! Get ready to recharge your batteries and have a blast like never before!
 
-**Upcoming Events:**
+**Upcoming Events:** 
 * [Better Mental Health Together, Watching Over Our Vulnerable](https://www.zhenghua.pa.gov.sg/events/public-forum-event/)
 
 **Previous Events**

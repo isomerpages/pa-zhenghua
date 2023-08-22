@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Zhenghua/Joyce.md
       - Zhenghua/Nora.md
       - Zhenghua/.keep
       - Ulu Pandan/Zach.md

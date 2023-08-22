@@ -2,7 +2,7 @@ collections:
   stories:
     output: true
     order:
-      - Cashew/Cashew.md
+      - Cashew/Eng Hiong.md
       - Cashew/.keep
       - Bukit Panjang/Angel.md
       - Bukit Panjang/.keep

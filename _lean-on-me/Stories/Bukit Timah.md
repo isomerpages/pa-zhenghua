@@ -1,7 +1,8 @@
 ---
 title: Bukit Timah
-permalink: /stories/bukit-timah/
+permalink: /lean-on-me/stories/bukit-timah/
 description: ""
+third_nav_title: Stories
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0-JJRdoqPQs" height="600" width="100%"></iframe>
 

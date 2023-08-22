@@ -1,7 +1,8 @@
 ---
 title: Art Installation
-permalink: /events/art-installation/
+permalink: /lean-on-me/events/art-installation/
 description: ""
+third_nav_title: Events
 ---
 ![](/images/crochet%20photos.gif)
 

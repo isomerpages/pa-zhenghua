@@ -2,8 +2,14 @@ collections:
   stories:
     output: true
     order:
-      - Bukit Timah.md
-      - Bukit Panjang.md
-      - Cashew.md
-      - Ulu Pandan.md
-      - Zhenghua.md
+      - Bukit Timah/.keep
+      - Bukit Timah/Shefali.md
+      - Bukit Panjang/.keep
+      - Bukit Panjang/Angel.md
+      - Cashew/.keep
+      - Cashew/Eng Hiong.md
+      - Ulu Pandan/.keep
+      - Ulu Pandan/Zach.md
+      - Zhenghua/.keep
+      - Zhenghua/Joyce.md
+      - Zhenghua/Nora.md

@@ -1,0 +1,21 @@
+collections:
+  lean-on-me:
+    output: true
+    order:
+      - About Lean On Me.md
+      - Wellbeing Map.md
+      - Resources/Resources for Parents.md
+      - Resources/Resources for Caregivers.md
+      - Resources/.keep
+      - Resources/Resources for Youth.md
+      - Stories/.keep
+      - Stories/Bukit Timah.md
+      - Stories/Bukit Panjang.md
+      - Stories/Cashew.md
+      - Stories/Ulu Pandan.md
+      - Stories/Zhenghua.md
+      - Events/.keep
+      - Events/All Events.md
+      - Events/Art Installation.md
+      - Events/Focused Group Discussions.md
+      - Get Support.md

@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - All Events.md
+      - Public Forum Event.md
       - Focus Group Discussions.md
       - Art Installation.md

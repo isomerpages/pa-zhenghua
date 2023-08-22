@@ -1,7 +1,8 @@
 ---
 title: Bukit Panjang
-permalink: /stories/bukit-panjang/
+permalink: /lean-on-me/stories/bukit-panjang/
 description: ""
+third_nav_title: Stories
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LdXCYLzsDMg" height="600" width="100%"></iframe>
 

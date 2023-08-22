@@ -1,6 +1,6 @@
 ---
 title: About Lean On Me
-permalink: /about/about-the-initiative/
+permalink: /lean-on-me/permalink/
 description: ""
 ---
 # Message from our Grassroots Advisers

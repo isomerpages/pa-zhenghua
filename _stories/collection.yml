@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Bukit Timah/.keep
-      - Bukit Timah.md
       - Bukit Panjang.md
       - Cashew.md
       - Ulu Pandan.md

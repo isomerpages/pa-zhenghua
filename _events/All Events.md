@@ -7,6 +7,7 @@ Are you ready to embark on a journey of joy, relaxation, and all-around good vib
 
 **Upcoming Events:** 
 * [Better Mental Health Together, Watching Over Our Vulnerable](https://www.zhenghua.pa.gov.sg/events/public-forum-event/)
+* [Beyond The Label Festival](https://www.zhenghua.pa.gov.sg/events/btl-fest-external-event/)
 
 **Previous Events**
 * [Focused Group Discussions](https://www.zhenghua.pa.gov.sg/events/fgd/)

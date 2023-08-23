@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Beyond the Label Festival.md
       - All Events.md
+      - Beyond the Label Festival.md
       - Public Forum Event.md
       - Focus Group Discussions.md
       - Art Installation.md

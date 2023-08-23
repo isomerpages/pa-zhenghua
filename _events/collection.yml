@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Beyond the Label Festival.md
       - All Events.md
       - Public Forum Event.md
       - Focus Group Discussions.md

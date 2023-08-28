@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Stories
           description: ""
-          url: stories/bukit-timah/
+          url: stories/bukit-timah
         - title: Wellbeing Map
           description: ""
           url: /wellbeing-map
@@ -23,23 +23,33 @@ sections:
           description: ""
           url: /all-resources
   - infopic:
-      title: Crochet Art Installations
+      title: Community Yarnbombing Installation Finale
       subtitle: Art Exhibition
-      description: Lean On Me's art exhibition aims to foster mental wellbeing and
-        strengthen community bonds through the transformative power of art.
+      description: The epic yarn adventure has reached its dazzling finale! Did you
+        dive into the yarn frenzy and snag a chance at the ultimate giveaway?
       button: Learn More
       alt: Image alt text
-      url: https://www.google.com/maps/d/edit?mid=1uIgdtwQgm2QtxOf9hjbFc9_xSP0b98o&usp=sharing
-      image: /images/crochet installations.gif
+      url: /events/art-installation
+      image: /images/art installations_finale.gif
   - infopic:
-      title: Giveaway
-      subtitle: Art Exhibition
-      description: These unique crochet art installations are perfect for your next
-        social media photo op. Snap a pic and stand a chance to win some prizes!
-      button: Join in
+      title: Better Mental Health Together, Watching Over Our Vulnerable
+      subtitle: Upcoming Events
+      description: Join this public forum, organised by Ng Teng Fong General Hospital
+        and Caring For Life, to learn how to build mental resilience and a
+        positive mental health.
+      button: Register here
+      url: /events/public-forum-event/
+      image: /images/full-poster_public forum - better mental health together.png
       alt: Image alt text
-      url: http://go.gov.sg/leanonme-giveaway
-      image: /images/updated gif for giveaway section.gif
+  - infopic:
+      title: Stories From Our Community
+      subtitle: Community stories
+      description: Check out our stories page and get to know people from our
+        communities and their journey with mental health.
+      button: view stories
+      url: /stories/bukit-timah
+      image: /images/hbkt_stories_page.gif
+      alt: Image alt text
   - infopic:
       title: Wellbeing Map
       button: Explore Map

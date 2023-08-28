@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - Previous Events/Art Installation.md
-      - Previous Events/Focus Group Discussions.md
-      - Previous Events/.keep
+      - All Events.md
       - Upcoming Events/.keep
       - Upcoming Events/Public Forum Event.md
       - Upcoming Events/Beyond the Label Festival.md
-      - All Events.md
+      - Previous Events/.keep
+      - Previous Events/Art Installation.md
+      - Previous Events/Focus Group Discussions.md

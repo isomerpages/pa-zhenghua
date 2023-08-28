@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Previous Events/Art Installation.md
       - Previous Events/Focus Group Discussions.md
       - Previous Events/.keep
       - Upcoming Events/.keep

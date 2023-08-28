@@ -3,6 +3,7 @@ title: Beyond the Label Festival
 permalink: /events/btl-fest-external-event/
 description: ""
 image: /images/image001.png
+third_nav_title: Upcoming Events
 ---
 ![](/images/image001.png)
 #### Beyond the Label Festival (BTL Fest) is back! 

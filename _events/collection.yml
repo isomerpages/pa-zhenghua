@@ -3,7 +3,9 @@ collections:
     output: true
     order:
       - All Events.md
-      - Beyond the Label Festival.md
-      - Public Forum Event.md
-      - Focus Group Discussions.md
-      - Art Installation.md
+      - Upcoming Events/.keep
+      - Upcoming Events/Public Forum Event.md
+      - Upcoming Events/Beyond the Label Festival.md
+      - Previous Events/.keep
+      - Previous Events/Art Installation.md
+      - Previous Events/Focus Group Discussions.md

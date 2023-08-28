@@ -6,8 +6,8 @@ description: ""
 Are you ready to embark on a journey of joy, relaxation, and all-around good vibes? Buckle up and keep those eyes sparkling as we unveil a calendar filled to the brim with delightful mental wellbeing events! Get ready to recharge your batteries and have a blast like never before!
 
 **Upcoming Events:** 
-* [Better Mental Health Together, Watching Over Our Vulnerable](https://www.zhenghua.pa.gov.sg/events/public-forum-event/)
-* [Beyond the Label Festival](https://www.zhenghua.pa.gov.sg/events/btl-fest-external-event/)
+* [Better Mental Health Together, Watching Over Our Vulnerable](https://www.zhenghua.pa.gov.sg/events/public-forum-event)
+* [Beyond the Label Festival](https://www.zhenghua.pa.gov.sg/events/btl-fest-external-event)
 
 **Previous Events**
 * [Focused Group Discussions](https://www.zhenghua.pa.gov.sg/events/fgd/)

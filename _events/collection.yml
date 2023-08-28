@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Beyond the Label Festival.md
-      - Upcoming Events/Public Forum Event.md
       - Upcoming Events/.keep
+      - Upcoming Events/Public Forum Event.md
+      - Upcoming Events/Beyond the Label Festival.md
       - All Events.md
       - Focus Group Discussions.md
       - Art Installation.md

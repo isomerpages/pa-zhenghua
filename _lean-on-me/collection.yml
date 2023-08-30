@@ -4,11 +4,11 @@ collections:
     order:
       - About Lean On Me.md
       - Wellbeing Map.md
-      - Resources/Financial Assistance.md
-      - Resources/Resources for Parents.md
-      - Resources/Resources for Caregivers.md
       - Resources/.keep
+      - Resources/Resources for Parents.md
       - Resources/Resources for Youth.md
+      - Resources/Resources for Caregivers.md
+      - Resources/Financial Assistance.md
       - Stories/.keep
       - Stories/Bukit Timah.md
       - Stories/Bukit Panjang.md

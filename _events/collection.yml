@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Care Packs.md
       - All Events.md
       - Upcoming Events/.keep
       - Upcoming Events/Public Forum Event.md

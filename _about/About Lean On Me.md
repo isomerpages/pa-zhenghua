@@ -20,7 +20,7 @@ To prioritise our wellbeing as a community, it’s important that we come togeth
 
 <a style="color: #e41b23 !important;" href="http://go.gov.sg/zbn">BECOME A BEFRIENDER ➜</a>
 
-# About the initiative
+# About the Initiative
 <h4>#LeanOnMeSG</h4>
 
 ![](/images/events%20page%20(1).gif)

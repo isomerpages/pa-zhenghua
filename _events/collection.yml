@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Carepacks Giveaway.md
       - All Events.md
       - Upcoming Events/.keep
       - Upcoming Events/Public Forum Event.md

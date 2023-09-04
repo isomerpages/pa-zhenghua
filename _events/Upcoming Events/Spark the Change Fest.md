@@ -14,3 +14,7 @@ Now in its second year, the event starts with a 3km charity walk called #HOWRU. 
 The main aim of the festival is to break down the stigma surrounding conversations about mental health and foster a positive impact.
 
 Make sure to mark your calendars for [2 September](https://www.facebook.com/SamaritansOfSingapore/posts/pfbid023MwQFZRCxtjZw4U5VeWZb5LyoZsWoJaHvz41WbHeqMqYdEM22fLrYi95PVEBXVPgl?ref=embed_post), from 9am to 9pm at OCBC Square in the Singapore Sports Hub!
+
+![](/images/368009641_705203038315341_3377348330738059159_n.jpg)
+
+![](/images/365303520_705203041648674_8566602240759327958_n.jpg)

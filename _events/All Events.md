@@ -8,8 +8,13 @@ Are you ready to embark on a journey of joy, relaxation, and all-around good vib
 **Upcoming Events:** 
 * Better Mental Health Together, Watching Over Our Vulnerable
 * Beyond the Label Festival
+* Nanyang Youth Network: Creating and Honouring Deaf and Mental Awareness
 
-**Previous Events**
+
+
+
+**Previous Events:**
+* Spark the Change Fest 2023
 * Focused Group Discussions
 * Art Installation
 

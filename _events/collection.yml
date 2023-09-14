@@ -2,14 +2,14 @@ collections:
   events:
     output: true
     order:
-      - Go Gai Gai!.md
       - All Events.md
+      - Go Gai Gai!.md
       - Carepacks Giveaway.md
-      - Upcoming Events/Nanyang Youth Network Event.md
       - Upcoming Events/.keep
+      - Upcoming Events/Nanyang Youth Network Event.md
       - Upcoming Events/Public Forum Event.md
       - Upcoming Events/Beyond the Label Festival.md
-      - Previous Events/Spark the Change Fest.md
       - Previous Events/.keep
+      - Previous Events/Spark the Change Fest.md
       - Previous Events/Art Installation.md
       - Previous Events/Focus Group Discussions.md

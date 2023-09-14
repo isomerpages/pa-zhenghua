@@ -2,13 +2,13 @@ collections:
   events:
     output: true
     order:
-      - Focus Group Discussions.md
-      - Art Installation.md
+      - All Events.md
+      - External Events/.keep
       - External Events/Spark the Change Fest.md
       - External Events/Beyond the Label Festival.md
       - External Events/Public Forum Event.md
       - External Events/Nanyang Youth Network Event.md
-      - External Events/.keep
-      - All Events.md
       - Go Gai Gai!.md
       - Carepacks Giveaway.md
+      - Art Installation.md
+      - Focus Group Discussions.md

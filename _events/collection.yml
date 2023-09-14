@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - External Events/.keep
       - All Events.md
       - Go Gai Gai!.md
       - Carepacks Giveaway.md

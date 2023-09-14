@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - External Events/Public Forum Event.md
       - External Events/Nanyang Youth Network Event.md
       - External Events/.keep
       - All Events.md

@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Focus Group Discussions.md
       - Art Installation.md
       - External Events/Spark the Change Fest.md
       - External Events/Beyond the Label Festival.md

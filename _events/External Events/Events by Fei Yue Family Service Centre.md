@@ -6,22 +6,14 @@ third_nav_title: External Events
 ---
 ### Events:
 
-*  **1st Oct (Sun) 9am-1pm:** Functional Screening + Mental Health Screening (by CREST) at Bukit Panjang Zone 7 RC
-*  **11th Oct (Wed) 7pm (online):** Depression and Chronic Illness: Friend or Foe? 
-*   **13th Oct (Fri) 9am-1pm:** Functional Screening + Mental Health Screening (by CREST) at Fei Yue Active Ageing Centre (Senja)
-*   **14th Oct (Sat) 10am-12pm:** Let’s Get HIP Carnival at Bukit Timah CC
-*  **4th Nov (Sat) 9am-1pm:** Silverfest + Mental Health Screening (by CREST) + Dementia talk at Covenant EFC 
-*   **22nd Nov (Wed) 10-11am:** Caregiver Stress sharing at Precious Active Ageing Centre (Fajar Spring)
 
 
 
-
-| Dates | Event | Location | 
-| -------- | -------- | -------- |
-| 01 Oct 2023   | Functional Screening + Mental Health Screening (by CREST) | Bukit Panjang Zone 7 RC     | 
-| Text     | Text     | Text     | 
-| Text     | Text     | Text     | 
-| Text     | Text     | Text     | 
-| Text     | Text     | Text     | 
-| Text     | Text     | Text     | 
-
+| Dates | Time | Event | Location | 
+| -------- | -------- | -------- | -------- |
+| 01 Oct 2023 (SUN)   | 9AM-1PM | Functional Screening + Mental Health Screening (by CREST)     | Bukit Panjang Zone 7 RC
+| 11 Oct 2023 (WED)     | 7PM  | Depression and Chronic Illness: Friend or Foe?     | Online 
+|13 Oct 2023 (FRI)    | 9AM-1PM     | Functional Screening + Mental Health Screening (by CREST)    | Fei Yue Active Ageing Centre (Senja)
+| 14 Oct 2023 (SAT)     | 10AM - 12PM     | Let’s Get HIP Carnival | Bukit Timah CC
+| 4 Nov 2023 (SAT)   |  9AM-1PM  | Silverfest + Mental Health Screening (by CREST) + Dementia talk    |  Covenant EFC 
+| 22 Nov 2023 (WED)    | 10AM-11AM     | Caregiver Stress Sharing     | Precious Active Ageing Centre (Fajar Spring)

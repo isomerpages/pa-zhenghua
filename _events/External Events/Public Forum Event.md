@@ -3,7 +3,7 @@ title: Public Forum Event
 permalink: /events/public-forum-event/
 description: ""
 image: ""
-third_nav_title: Upcoming Events
+third_nav_title: External Events
 ---
 ### Better Mental Health Together, Watching Over Our Vulnerable
 

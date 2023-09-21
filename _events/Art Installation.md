@@ -11,7 +11,6 @@ Today, we stand in awe of the collective effort and dedication put forth by thes
 
 <br>
 
-![](/images/giveaway%20winners%20banner.png)
-![](/images/giveaway%20winners.png)
+![](/images/giveaway_winners.png)
 
-<br> 
+<br>

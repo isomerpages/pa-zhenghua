@@ -32,14 +32,13 @@ sections:
       url: /events/art-installation
       image: /images/art installations_finale.gif
   - infopic:
-      title: Better Mental Health Together, Watching Over Our Vulnerable
-      subtitle: Upcoming Events
-      description: Join this public forum, organised by Ng Teng Fong General Hospital
-        and Caring For Life, to learn how to build mental resilience and a
-        positive mental health.
-      button: Register here
-      url: /events/public-forum-event/
-      image: /images/full-poster_public forum - better mental health together.png
+      title: Giveaway Winners
+      subtitle: Events
+      description: Meet our incredible giveaway winners, each shining alongside our
+        captivating art installations!
+      button: learn more
+      url: /events/art-installation/
+      image: /images/giveaway-winners2.png
       alt: Image alt text
   - infopic:
       title: Stories From Our Community

@@ -3,7 +3,7 @@ title: Upcoming Events
 permalink: /events/upcoming-events/
 description: ""
 ---
-### Events:
+### Upcoming Events:
 
 
 

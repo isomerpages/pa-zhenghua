@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events.md
       - All Events.md
-      - External Events/Events by Fei Yue Family Service Centre.md
+      - Upcoming Events.md
       - External Events/.keep
+      - External Events/Events by Fei Yue Family Service Centre.md
       - External Events/Spark the Change Fest.md
       - External Events/Beyond the Label Festival.md
       - External Events/Public Forum Event.md

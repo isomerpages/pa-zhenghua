@@ -7,7 +7,7 @@ description: ""
 
 
 
-|![](/images/sunrise%20soundbath%20&%20tea.png)  | ![](/images/sunset%20yoga.png)| ![](/images/dads-event.png) | 
+|![](/images/soundbath.png)  | ![](/images/sunset%20yoga.png)| ![](/images/dads-event.png) | 
 | -------- | -------- | -------- | 
 | **Sunrise Soundbath & Tea**  |**Sunset Yoga**| **Just For Papa**
 | 14 Oct 2023, (SAT)  |20 Oct 2023, (FRI)| 03 Nov 2023 (FRI)

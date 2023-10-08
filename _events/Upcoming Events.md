@@ -22,4 +22,4 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 | -------- | -------- | -------- |
 | Pranayama & Meditation | Mindful Dessert & Tea Pairing   |        |
 |11 Nov 2023, Sat | 16 Dec 2023, Sat | |
-Venue: Jal Yoga Singapore (Upper Bukit Timah) S678149 | Venue: Ulu Pandan Community Centre, S279621
+Venue: Jal Yoga Singapore (Upp Bukit Timah) S678149 | Venue: Ulu Pandan Community Centre, S279621

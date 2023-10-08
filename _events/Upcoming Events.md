@@ -9,7 +9,7 @@ description: ""
 ##### **October**
 |![](/images/soundbath.png) | ![](/images/sunset%20yoga.png)| ![](/images/dads-event.png) | 
 | -------- | -------- | -------- | 
-| **Sunrise Yoga**  |**Sunset Sound Bathing Workshop**| **Just For Papa**
+| **Sunrise Yoga**  |**Sunset Sound Bathing**| **Just For Papa**
 | 14 Oct 2023, Sat  |20 Oct 2023, Fri | 03 Nov 2023, Fri 
 |Time: 7:00 AM - 8:30 AM| Time: 6:00 PM - 7:30 PM | Time: 7:00 PM - 10:00 PM
 Venue: Sky Sprouts | Venue: Sky Sprouts | Venue: Dad’s Adventure Hub @ Junction 10
@@ -32,4 +32,3 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 | Mindful Dessert & Tea Pairing     |      |      |
 | 16 Dec 2023, Sat | | |
 | Venue: Ulu Pandan Community Centre, S279621|
-

@@ -27,7 +27,7 @@ Note: Please bring your yoga mat, bottled water and towel for this session | Not
 | Time: 7:00 PM - 10:00 PM | Time: 7:30 AM - 9:00 AM |
 | Venue: Dad’s Adventure Hub @ Junction 10 | Venue: Jal Yoga Singapore (Upp Bukit Timah) S678149 |
 | Note: This event is designed specifically for fathers only | Note: Please bring your bottled water and towel for this session (yoga mats are provided) 
-|Please send an email to [Hafiz Yusof](mailto:Hafiz_YUSOF@pa.gov.sg) to register your interest | 
+|  Please send an email to [Hafiz Yusof](mailto:Hafiz_YUSOF@pa.gov.sg) to register your interest| 
 
 
 

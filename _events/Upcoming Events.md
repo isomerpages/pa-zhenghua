@@ -18,9 +18,9 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 
 
 ##### **November**
-![](/images/dads-event.png) |![](/images/pranayama-meditation.png)|
+|![](/images/dads-event.png)|![](/images/pranayama-meditation.png)|
 | -------- | -------- |
-| **Just For Papa**  | **Pranayama & Meditation** |
+| **Just For Papa** | **Pranayama & Meditation** |
 |03 Nov 2023, Fri  | 11 Nov 2023, Sat |
 | Time: 7:00 PM - 10:00 PM | Time: 7:30 AM - 9:00 AM |
 | Venue: Dad’s Adventure Hub @ Junction 10 | Venue: Jal Yoga Singapore (Upp Bukit Timah) S678149 |

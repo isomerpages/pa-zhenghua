@@ -18,6 +18,6 @@ Through a combination of presentations, case examples, and discussions, particip
 * Time: **10AM-12PM**
 * Location: **Telok Blangah CC, Level 3, Function Hall**
 
-
+##### <a style="color: #e41b23 !important;" href="https://go.gov.sg/tbynmht">Click here to register ➜</a>
 
 ![](/images/common%20mental%20health%20disorders%20workshop.jpeg)

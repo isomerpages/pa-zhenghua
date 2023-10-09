@@ -18,7 +18,7 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 
 
 ##### **November**
-![](/images/dads-event.png) |![](/images/pranayama%20&%20meditation.jpeg)|
+![](/images/dads-event.png) |![](/images/pranayama-meditation.png)|
 | -------- | -------- |
 | **Just For Papa**  | **Pranayama & Meditation** |
 |03 Nov 2023, Fri  | 11 Nov 2023, Sat |
@@ -30,7 +30,7 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 
 
 ##### **December**
-|![](/images/dessert%20and%20tea.jpeg) |
+|![](/images/dessert-tea.png)|
 | -------- |
 | Mindful Dessert & Tea Pairing|
 | 16 Dec 2023, Sat |

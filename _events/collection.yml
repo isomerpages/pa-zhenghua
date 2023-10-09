@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events 2.md
       - All Events.md
       - Upcoming Events.md
       - External Events/.keep

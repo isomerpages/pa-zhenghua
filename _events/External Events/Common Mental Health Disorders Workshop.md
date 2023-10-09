@@ -14,8 +14,10 @@ Join us for an engaging and informative workshop aimed at enhancing your underst
 Through a combination of presentations, case examples, and discussions, participants will gain knowledge about these mental health difficulties and strategies for self-help and supporting others.
 
 ##### Important details:
-* Date: 14 October, 2023 (SAT)
-* Time: 10AM-12PM
-* Location: Telok Blangah CC, Level 3, Function Hall
+* Date: **14 October, 2023 (SAT)**
+* Time: **10AM-12PM**
+* Location: **Telok Blangah CC, Level 3, Function Hall**
+
+
 
 ![](/images/common%20mental%20health%20disorders%20workshop.jpeg)

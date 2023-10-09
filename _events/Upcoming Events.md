@@ -7,6 +7,7 @@ description: ""
 
 
 ##### **October**
+
 |![](/images/soundbath.png) | ![](/images/sunset%20yoga.png)|  
 | -------- | -------- |
 | **Sunrise Yoga**  |**Sunset Sound Bathing**| 
@@ -18,6 +19,7 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 
 
 ##### **November**
+
 |![](/images/dads-event.png)|![](/images/pranayama-meditation.png)|
 | -------- | -------- |
 | **Just For Papa** | **Pranayama & Meditation** |
@@ -30,6 +32,7 @@ Click [**here**](https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-con
 
 
 ##### **December**
+
 |![](/images/dessert-tea.png)|
 | -------- |
 | Mindful Dessert & Tea Pairing|

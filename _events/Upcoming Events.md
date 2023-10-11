@@ -33,7 +33,7 @@ Note: Please bring your yoga mat, bottled water and towel for this session | Not
 
 ##### **December**
 
-|!![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|
+|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|
 | -------- |
 | **Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being**|
 | 16 Dec 2023, Sat |

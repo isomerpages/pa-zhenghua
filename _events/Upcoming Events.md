@@ -27,7 +27,7 @@ Note: Please bring your yoga mat, bottled water and towel for this session | Not
 | Time: 7:00 PM - 10:00 PM | Time: 7:30 AM - 9:00 AM |
 | Venue: Dad’s Adventure Hub @ Junction 10 | Venue: Jal Yoga Singapore (Upp Bukit Timah) S678149 |
 | Note: This event is designed specifically for fathers only | Note: Please bring your bottled water and towel for this session (yoga mats are provided) 
-|  Please send an email to [Hafiz Yusof](mailto:Hafiz_YUSOF@pa.gov.sg) to register your interest| 
+|  Please send an email to [Hafiz Yusof](mailto:Hafiz_YUSOF@pa.gov.sg) to register your interest| <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-pranayama-meditation-27206549">Click here to register your interest ➜</a>
 
 
 
@@ -40,3 +40,4 @@ Note: Please bring your yoga mat, bottled water and towel for this session | Not
 |Time: 3:00 PM - 5:00 PM|
 | Venue: Ulu Pandan Community Centre, S279621|
 |<a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-savouring-memories-creative-expression-through-the-art-of-mindful-dessert-and-tea-pairing-34763128">Click here to register your interest ➜</a> |
+

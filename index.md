@@ -22,6 +22,23 @@ sections:
         - title: Resources
           description: ""
           url: /all-resources
+  - textcards:
+      title: Upcoming Events
+      id: textcards
+      cards:
+        - title: Just For Papa
+          description: An exclusive event for fathers to discuss parenting, self-care, and
+            more.
+          linktext: Learn more
+          url: /events/upcoming-events/
+        - title: Pranayama & Meditation
+          description: Find inner peace through the art of mindful breathing.
+          linktext: Learn more
+          url: /events/upcoming-events
+        - title: Artful Bites
+          description: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being
+          linktext: Learn more
+          url: /events/upcoming-events
   - infopic:
       title: Community Yarnbombing Installation Finale
       subtitle: Art Exhibition

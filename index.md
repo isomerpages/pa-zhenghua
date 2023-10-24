@@ -32,7 +32,7 @@ sections:
         us for workshops, meaningful connections, and inspiration. "
       button: explore here
       url: /events/upcoming-events/
-      image: /images/upcoming events (2).png
+      image: /images/events infopic.png
       alt: Image alt text
   - infopic:
       title: Community Yarnbombing Installation Finale

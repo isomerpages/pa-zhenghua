@@ -25,23 +25,15 @@ sections:
         - title: Resources
           description: ""
           url: /all-resources
-  - textcards:
+  - infopic:
       title: Upcoming Events
-      id: textcards
-      cards:
-        - title: Just For Papa
-          description: An exclusive event for fathers to discuss parenting, self-care, and
-            more.
-          linktext: Learn more
-          url: /events/upcoming-events/
-        - title: Pranayama & Meditation
-          description: Find inner peace through the art of mindful breathing.
-          linktext: Learn more
-          url: /events/upcoming-events
-        - title: Artful Bites
-          description: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being
-          linktext: Learn more
-          url: /events/upcoming-events
+      id: infopic
+      description: "Embark on a transformative well-being journey at our events! Join
+        us for workshops, meaningful connections, and inspiration. "
+      button: explore here
+      url: /events/upcoming-events/
+      image: /images/upcoming events (2).png
+      alt: Image alt text
   - infopic:
       title: Community Yarnbombing Installation Finale
       subtitle: Art Exhibition
@@ -51,15 +43,6 @@ sections:
       alt: Image alt text
       url: /events/art-installation
       image: /images/art installations_finale.gif
-  - infopic:
-      title: Giveaway Winners
-      subtitle: Events
-      description: Meet our incredible giveaway winners, each shining alongside our
-        captivating art installations!
-      button: learn more
-      url: /events/art-installation/
-      image: /images/giveaway-winners2.png
-      alt: Image alt text
   - infopic:
       title: Stories From Our Community
       subtitle: Community stories

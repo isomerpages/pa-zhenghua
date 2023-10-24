@@ -13,6 +13,9 @@ sections:
       button: About Lean On Me
       url: /about/about-the-initiative
       key_highlights:
+        - title: Events
+          description: ""
+          url: /events/upcoming-events/
         - title: Stories
           description: ""
           url: stories/bukit-timah/shefali/

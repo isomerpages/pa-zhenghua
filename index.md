@@ -33,7 +33,7 @@ sections:
         for a more purposeful life.
       button: explore here
       url: /events/upcoming-events/
-      image: /images/events infopic.png
+      image: /images/events infopic (2).png
       alt: Image alt text
   - infopic:
       title: Community Yarnbombing Installation Finale

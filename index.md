@@ -28,9 +28,9 @@ sections:
   - infopic:
       title: Upcoming Events
       id: infopic
-      description: "Start your well-being journey throught our events! Discover
+      description: Start your well-being journey through our events! Discover
         workshops, connect with like-minded individuals, and find inspiration
-        for a more purposeful life. "
+        for a more purposeful life.
       button: explore here
       url: /events/upcoming-events/
       image: /images/events infopic.png

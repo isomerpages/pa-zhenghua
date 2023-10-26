@@ -13,6 +13,9 @@ sections:
       button: About Lean On Me
       url: /about/about-the-initiative
       key_highlights:
+        - title: Events
+          description: ""
+          url: /events/upcoming-events/
         - title: Stories
           description: ""
           url: stories/bukit-timah/shefali/
@@ -23,6 +26,16 @@ sections:
           description: ""
           url: /all-resources
   - infopic:
+      title: Upcoming Events
+      id: infopic
+      description: Start your well-being journey through our events! Discover
+        workshops, connect with like-minded individuals, and find inspiration
+        for a more purposeful life.
+      button: explore here
+      url: /events/upcoming-events/
+      image: /images/events infopic (2).png
+      alt: Image alt text
+  - infopic:
       title: Community Yarnbombing Installation Finale
       subtitle: Art Exhibition
       description: The epic yarn adventure has reached its dazzling finale! Did you
@@ -31,15 +44,6 @@ sections:
       alt: Image alt text
       url: /events/art-installation
       image: /images/art installations_finale.gif
-  - infopic:
-      title: Giveaway Winners
-      subtitle: Events
-      description: Meet our incredible giveaway winners, each shining alongside our
-        captivating art installations!
-      button: learn more
-      url: /events/art-installation/
-      image: /images/giveaway-winners2.png
-      alt: Image alt text
   - infopic:
       title: Stories From Our Community
       subtitle: Community stories

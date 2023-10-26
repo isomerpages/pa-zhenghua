@@ -25,7 +25,7 @@ description: ""
 | Venue: Bukit Panjang RC Zone 2 | Venue: Bukit Panjang RC Zone 2 |
 | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-the-alchemy-of-natural-dye-67581136">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-from-wardrobe-to-wall-eco-friendly-yarn-macrame-24966538">Click here to register your interest ➜</a>
 
-|![](/images/natural%20dye.png)|![](/images/yarn%20macrame.png)|
+|![](/images/pastel%20.png)|![](/images/yarn%20macrame.png)|
 | -------- | -------- |
 | **Pastel Nagomi Art Workshop** | **Mandala Icing Cookie Workshop** |
 |19 Nov 2023, SUN | 25 Nov 2023, SAT|
@@ -35,7 +35,7 @@ description: ""
 
 ##### **December**
 
-|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|
+|![](/images/fragrance.png)|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|
 | --------| -------- |
 | **Fragrance Therapy Workshop**| **Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being**|
 |02 Dec 2023, SAT| 16 Dec 2023, Sat |

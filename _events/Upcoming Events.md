@@ -17,7 +17,7 @@ description: ""
 | Note: Please bring a yoga mat for this session | Note: Please bring your bottled water and towel for this session (yoga mats are provided) 
 | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-sunrise-yoga-and-conversations-on-mental-wellbeing-28956670">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-pranayama-meditation-27206549">Click here to register your interest ➜</a>
 
-|![](/images/sunrise%20yoga.png)|![](/images/hbkt%20microsite%20-%20event%20photos%20.png)|
+|![](/images/natural%20dye.png)|![](/images/yarn%20macrame.png)|
 | -------- | -------- |
 | **The Art of Natural Dyeing Workshop** | **Eco-friendly Yarn Macrame Workshop** |
 |11 Nov 2023, SAT | 18 Nov 2023, SAT|

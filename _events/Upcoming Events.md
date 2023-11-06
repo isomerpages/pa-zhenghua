@@ -37,8 +37,8 @@ variant: markdown
 
 |![](/images/fragrance.png)|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|
 | --------| -------- |
-| **Fragrance Therapy Workshop**| **Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being**|
-|02 Dec 2023, SAT| 16 Dec 2023, Sat |
-|Time: 3:30 PM - 5:00 PM|Time: 11:00 AM - 2:00 PM|
-| Venue: Zhenghua RC| Venue: Ulu Pandan Community Centre, S279621|
-| <a style="color: #e41b23 !important;">Coming soon! </a>|<a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-savouring-memories-creative-expression-through-the-art-of-mindful-dessert-and-tea-pairing-34763128">Click here to register your interest ➜</a> |
+| **Soulful Sunprints: Outdoor Printmaking for Wellness**| **Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being**|
+|17 Dec 2023, SAT| 16 Dec 2023, Sat |
+|Time: 10:00 AM - 12:00 NN |Time: 11:00 AM - 2:00 PM|
+| Venue: The Green Corridor (Bukit Timah / Ulu Pandan)| Venue: Ulu Pandan Community Centre, S279621|
+|<a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-soulful-sunprints-outdoor-printmaking-for-wellness-23092621">Click here to register your interest ➜</a>|<a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-savouring-memories-creative-expression-through-the-art-of-mindful-dessert-and-tea-pairing-34763128">Click here to register your interest ➜</a> |

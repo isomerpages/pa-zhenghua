@@ -2,12 +2,13 @@
 title: All Events
 permalink: /events/all-events/
 description: ""
+variant: markdown
 ---
 Are you ready to embark on a journey of joy, relaxation, and all-around good vibes? Buckle up and keep those eyes sparkling as we unveil a calendar filled to the brim with delightful mental wellbeing events! Get ready to recharge your batteries and have a blast like never before!
 
 #### <a style="color: #e41b23 !important;" href="https://zhenghua.pa.gov.sg/events/upcoming-events/">Click here for more info on our upcoming events! ➜</a> 
 
-**<hr>**
+<hr>
 
 
 

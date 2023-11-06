@@ -8,7 +8,7 @@ Are you ready to embark on a journey of joy, relaxation, and all-around good vib
 
 #### <a style="color: #e41b23 !important;" href="https://zhenghua.pa.gov.sg/events/upcoming-events/">Click here for more info on our upcoming events! ➜</a> 
 
-<hr>
+___
 
 
 

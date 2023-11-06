@@ -17,7 +17,7 @@ variant: markdown
 | Venue: Jal Yoga Singapore (Upp Bukit Timah) S678149 | Venue: Bukit Panjang RC Zone 2 |
 |<a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-pranayama-meditation-27206549">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-the-alchemy-of-natural-dye-67581136">Click here to register your interest ➜</a>| 
 
-|![](/images/yarn%20macrame.png)| ![](/images/pastel%20.png)
+|![](/images/yarn%20macrame.png)| ![](/images/pastel%20.png) |
 | -------- | -------- |
 | **Eco-friendly Yarn Macrame Workshop** | **Pastel Nagomi Art Workshop** |
 | 18 Nov 2023, SAT| 19 Nov 2023, SUN | 
@@ -25,7 +25,7 @@ variant: markdown
 | Venue: Bukit Panjang RC Zone 2 |Venue: TBC |
 | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-from-wardrobe-to-wall-eco-friendly-yarn-macrame-24966538">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-pastel-nagomi-art-workshop-nurturing-mental-wellbeing-through-creative-expression-78890743">Click here to register your interest ➜</a> 
 
-![](/images/fragrance.png)|![](/images/mandala%20icing.png)| 
+|![](/images/fragrance.png)|![](/images/mandala%20icing.png)| 
 | -------- | -------- |
 | **Fragrance Therapy Workshop**| **Mandala Icing Cookie Workshop**  |
 | 24 Nov 2023, FRI | 25 Nov 2023, SAT|
@@ -35,7 +35,7 @@ variant: markdown
 
 ##### **December**
 
-![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)|![](/images/cyantoype.png)|
+|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)| ![](/images/cyantoype.png)|
 | --------| -------- |
 | **Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being**|**Soulful Sunprints: Outdoor Printmaking for Wellness**| 
 | 16 Dec 2023, Sat |17 Dec 2023, SAT

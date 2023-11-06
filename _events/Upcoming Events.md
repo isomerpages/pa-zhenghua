@@ -2,6 +2,7 @@
 title: Upcoming Events
 permalink: /events/upcoming-events/
 description: ""
+variant: markdown
 ---
 ### Events:
 
@@ -10,7 +11,7 @@ description: ""
 
 |![](/images/sunrise%20yoga.png)|![](/images/hbkt%20microsite%20-%20event%20photos%20.png)|
 | -------- | -------- |
-| **Sunrise Yoga** | **Pranayama &amp; Meditation** |
+| **Sunrise Yoga** | **Breath &amp; Relax** |
 |04 Nov 2023, SAT  | 11 Nov 2023, SAT |
 | Time: 7:00 AM - 8:30 AM | Time: 10:30 AM - 12:00 NN |
 | Venue: Sky Sprouts | Venue: Jal Yoga Singapore (Upp Bukit Timah) S678149 |

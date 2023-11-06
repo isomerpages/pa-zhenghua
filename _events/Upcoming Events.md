@@ -25,13 +25,13 @@ variant: markdown
 | Venue: Bukit Panjang RC Zone 2 |Venue: TBC |
 | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-from-wardrobe-to-wall-eco-friendly-yarn-macrame-24966538">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-pastel-nagomi-art-workshop-nurturing-mental-wellbeing-through-creative-expression-78890743">Click here to register your interest ➜</a> 
 
-|![](/images/mandala%20icing.png)| ![](/images/fragrance.png)|
+![](/images/fragrance.png)|![](/images/mandala%20icing.png)| 
 | -------- | -------- |
-| **Mandala Icing Cookie Workshop** | **Fragrance Therapy Workshop** |
-| 25 Nov 2023, SAT| 24 Nov 2023, FRI |
-| Time: 3:00 PM - 5:30 PM | Time: 7:00 PM - 9:00 PM |
-| Venue: Bukit Panjang RC Zone 2| Venue: Zhenghua RC |
-| <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-mandala-icing-workshop-78846369">Click here to register your interest ➜</a>  |  <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-fragrance-therapy-workshop-27361049">Click here to register your interest ➜</a> 
+| **Fragrance Therapy Workshop**| **Mandala Icing Cookie Workshop**  |
+| 24 Nov 2023, FRI | 25 Nov 2023, SAT|
+| Time: 7:00 PM - 9:00 PM | Time: 3:00 PM - 5:30 PM  |
+| Venue: Zhenghua RC | Venue: Bukit Panjang RC Zone 2|
+ |  <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-fragrance-therapy-workshop-27361049">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-mandala-icing-workshop-78846369">Click here to register your interest ➜</a> |
 
 ##### **December**
 

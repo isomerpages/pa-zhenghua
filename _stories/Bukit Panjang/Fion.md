@@ -1,7 +1,8 @@
 ---
 title: Fion
 permalink: /stories/bukit-panjang/fion/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Bukit Panjang
 ---
+h

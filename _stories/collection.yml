@@ -2,8 +2,10 @@ collections:
   stories:
     output: true
     order:
+      - Bukit Timah/George.md
       - Bukit Timah/.keep
       - Bukit Timah/Shefali.md
+      - Bukit Panjang/Fion.md
       - Bukit Panjang/.keep
       - Bukit Panjang/Angel.md
       - Cashew/.keep

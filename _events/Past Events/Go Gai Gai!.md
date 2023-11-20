@@ -3,6 +3,7 @@ title: Go Gai Gai!
 permalink: /events/go-gai-gai/
 description: ""
 third_nav_title: Past Events
+variant: markdown
 ---
 In our ongoing commitment to fostering mental wellness among young individuals, we have initiated a program aimed at training our local youth befrienders from West Spring and Zhenghua Secondary. This training encompasses the utilisation of nature-led conversations and activities as effective tools for promoting mental wellbeing.
 

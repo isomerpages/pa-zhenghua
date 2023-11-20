@@ -2,17 +2,17 @@ collections:
   events:
     output: true
     order:
-      - Past Events/Focus Group Discussions.md
-      - Past Events/Art Installation.md
-      - Past Events/Carepacks Giveaway.md
-      - Past Events/Go Gai Gai!.md
-      - Past Events/.keep
       - All Events.md
       - Upcoming Events.md
-      - External Events/Common Mental Health Disorders Workshop.md
       - External Events/.keep
+      - External Events/Common Mental Health Disorders Workshop.md
       - External Events/Events by Fei Yue Family Community Services.md
       - External Events/Spark the Change Fest.md
       - External Events/Beyond the Label Festival.md
       - External Events/Public Forum Event.md
       - External Events/Nanyang Youth Network Event.md
+      - Past Events/.keep
+      - Past Events/Focus Group Discussions.md
+      - Past Events/Art Installation.md
+      - Past Events/Carepacks Giveaway.md
+      - Past Events/Go Gai Gai!.md

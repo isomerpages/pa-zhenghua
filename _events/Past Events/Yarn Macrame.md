@@ -11,4 +11,4 @@ Participants learned about the dangers of fast fashion and engaged in a meaningf
 
 The outcome of this workshop was highly customizable. A choice of a keychain or accessories to a wall hanging piece of art, participants enjoyed the fun of upcycling and considered ways of bringing new life to a used item before discarding them!
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4xjweERTCmDskdxrePImc1op7hHhvuFzN7XTa1-pEms-77dqVmYg49vq4Pp5GglJQOWKFuSpO0Zsj/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="299" width="360" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4xjweERTCmDskdxrePImc1op7hHhvuFzN7XTa1-pEms-77dqVmYg49vq4Pp5GglJQOWKFuSpO0Zsj/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

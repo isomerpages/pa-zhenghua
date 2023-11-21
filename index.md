@@ -33,7 +33,7 @@ sections:
         for a more purposeful life.
       button: explore here
       url: /events/upcoming-events/
-      image: /images/updated-upcoming-events.png
+      image: /images/_HBKT__Isomer_Events_Banner.png
       alt: Image alt text
   - infopic:
       title: Community Yarnbombing Installation Finale

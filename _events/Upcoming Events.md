@@ -4,10 +4,10 @@ permalink: /events/upcoming-events/
 description: ""
 variant: markdown
 ---
-### Events:
+# Events:
 
 
-##### **November**
+## **November**
 
 |![](/images/fragrance.png)|![](/images/mandala%20icing.png)| 
 | -------- | -------- |
@@ -17,7 +17,7 @@ variant: markdown
 | Venue: Zhenghua RC | Venue: Bukit Panjang RC Zone 2|
 |  <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-fragrance-therapy-workshop-27361049">Click here to register your interest ➜</a> | <a style="color: #e41b23 !important;" href="https://www.onepa.gov.sg/events/lean-on-me-mandala-icing-workshop-78846369">Click here to register your interest ➜</a> |
 
-##### **December**
+## **December**
 
 |![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)| ![](/images/cyantoype.png)|
 | --------| -------- |

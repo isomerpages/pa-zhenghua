@@ -3,8 +3,9 @@ title: Events by Fei Yue Family Community Services
 permalink: /events/external-events/fei-yue-family-community-services-events/
 description: ""
 third_nav_title: External Events
+variant: markdown
 ---
-### Events:
+# Events:
 
 
 
@@ -20,13 +21,9 @@ third_nav_title: External Events
 | 22 Nov 2023 (WED)    | 10AM-11AM     | Caregiver Stress Sharing     | Precious Active Ageing Centre (Fajar Spring)
 
 
-##### Videos in support of **World Mental Health Day**:
+## Videos in support of **World Mental Health Day**:
 
 * [Video #1: Sparking Meaningful Conversations About Body Image.](https://www.instagram.com/reel/CyAx_QlyTEC/?utm_source=ig_web_copy_link)
 * Video #2: *Coming soon...*
 * Video #3: *Coming soon...*
 * Video #4: *Coming soon...*
-
-
-
- 

@@ -40,7 +40,7 @@ sections:
       subtitle: Art Exhibition
       description: The epic yarn adventure has reached its dazzling finale! Did you
         dive into the yarn frenzy and snag a chance at the ultimate giveaway?
-      button: Learn More
+      button: "check out the installations "
       alt: Image alt text
       url: /events/art-installation
       image: /images/art installations_finale.gif

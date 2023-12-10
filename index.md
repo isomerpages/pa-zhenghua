@@ -34,13 +34,13 @@ sections:
       button: explore here
       url: /events/upcoming-events/
       image: /images/_HBKT__Isomer_Events_Banner.png
-      alt: Image alt text
+      alt: Upcoming events
   - infopic:
       title: Community Yarnbombing Installation Finale
       subtitle: Art Exhibition
       description: The epic yarn adventure has reached its dazzling finale! Did you
         dive into the yarn frenzy and snag a chance at the ultimate giveaway?
-      button: "check out the installations "
+      button: check out the installations
       alt: Image alt text
       url: /events/art-installation
       image: /images/art installations_finale.gif

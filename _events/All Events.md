@@ -1,7 +1,11 @@
 ---
 title: All Events
 permalink: /events/all-events/
-description: ""
+description: "Join us for a transformative journey at the Lean On Me campaign's
+  series of inspiring events! From empowering workshops to community-building
+  activities, our diverse lineup fosters connection, resilience, and personal
+  growth. Don't miss out on this opportunity to lean on each other for support
+  and create lasting bonds. "
 variant: markdown
 ---
 Are you ready to embark on a journey of joy, relaxation, and all-around good vibes? Buckle up and keep those eyes sparkling as we unveil a calendar filled to the brim with delightful mental wellbeing events! Get ready to recharge your batteries and have a blast like never before!

@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Past Events/.keep
+      - External Events/Common Mental Health Disorders Workshop.md
       - External Events/.keep
       - About Lean On Me.md
       - Wellbeing Map.md

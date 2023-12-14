@@ -30,9 +30,9 @@ sections:
       button: Explore Map
       url: /wellbeing-map
       alt: Wellbeing Map
-      description: "Navigate our dynamic and interactive hyper-localised map made just
+      description: Navigate our dynamic and interactive hyper-localised map made just
         for you - with curated nature spots, recreational activities and local
-        support. "
+        support.
       image: /images/wellbeing map - revised.gif
       subtitle: In your neighbourhood...
   - infopic:
@@ -46,7 +46,7 @@ sections:
       alt: BP Sedap
   - infopic:
       title: Zhenghua Food Rescue
-      subtitle: Add an image and text
+      subtitle: By Zhenghua YN, IAEC and Green
       id: infopic
       description: Explore our community effort to reduce food wastage.
       button: Stay updated

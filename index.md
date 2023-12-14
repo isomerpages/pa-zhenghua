@@ -22,7 +22,7 @@ sections:
         - title: Stay Connected
           description: ""
           url: https://go.gov.sg/zhsocials
-      variant: center
+      variant: image
       size: md
       alignment: left
   - infopic:

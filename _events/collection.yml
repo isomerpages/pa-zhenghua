@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - External Events/.keep
-      - External Events/Public Forum Event.md
       - External Events/Nanyang Youth Network Event.md
       - Past Events/Pastel Nagomi.md
       - Past Events/Yarn Macrame.md

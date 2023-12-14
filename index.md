@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Zhenghua
       subtitle: "#WhereWeBelong"
-      background: /images/landing banner.jpg
+      background: /images/HBPTC_Homepagebanner_min.jpg
       button: Learn more
       url: /about/about-zhenghua
       key_highlights:
@@ -25,6 +25,9 @@ sections:
         - title: Resources
           description: ""
           url: /all-resources
+      variant: center
+      size: md
+      alignment: left
   - infopic:
       title: Wellbeing Map
       button: Explore Map

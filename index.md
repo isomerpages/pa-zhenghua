@@ -21,7 +21,7 @@ sections:
           url: /lean-on-me/stories/bukit-panjang-angel/
         - title: Stay Connected
           description: ""
-          url: https://go.gov.sg/zhsocials
+          url: /about/social-media/
       variant: image
       size: md
       alignment: left

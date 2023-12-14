@@ -10,6 +10,9 @@ links:
     url: /Green
   - title: Wellness
     url: /wellness
+    sublinks:
+      - title: Lean On Me
+        url: /lean-on-me
   - title: BP Town
     url: /bp-town
   - title: Contact Us

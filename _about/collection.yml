@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Our Social Media.md
       - About Zhenghua.md
       - Our Key Pillars.md

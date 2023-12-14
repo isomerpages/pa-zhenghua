@@ -1,4 +1,5 @@
 collections:
   cares:
     output: true
-    order: []
+    order:
+      - Good Grocery Truck.md

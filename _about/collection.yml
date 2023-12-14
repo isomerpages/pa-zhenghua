@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - Our Key Pillars.md
       - About Zhenghua.md
+      - Our Key Pillars.md

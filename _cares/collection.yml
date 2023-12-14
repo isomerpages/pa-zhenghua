@@ -2,5 +2,5 @@ collections:
   cares:
     output: true
     order:
-      - Home Improvement Programme.md
       - Good Grocery Truck.md
+      - Home Improvement Programme.md

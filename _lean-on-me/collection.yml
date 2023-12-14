@@ -2,7 +2,6 @@ collections:
   lean-on-me:
     output: true
     order:
-      - Wellbeing Map.md
       - Resources/.keep
       - Resources/Self Care and Wellbeing.md
       - Resources/Resources for Parents.md

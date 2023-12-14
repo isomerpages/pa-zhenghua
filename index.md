@@ -43,14 +43,4 @@ sections:
       url: /stories/bukit-timah/shefali/
       image: /images/hbkt_stories_page.gif
       alt: Image alt text
-  - infopic:
-      title: Upcoming Events
-      id: infopic
-      description: Start your well-being journey through our events! Discover
-        workshops, connect with like-minded individuals, and find inspiration
-        for a more purposeful life.
-      button: explore here
-      url: /events/upcoming-events/
-      image: /images/_HBKT__Isomer_Events_Banner.png
-      alt: Upcoming events
 ---

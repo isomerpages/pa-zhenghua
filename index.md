@@ -29,18 +29,28 @@ sections:
       title: Wellbeing Map
       button: Explore Map
       url: /wellbeing-map
-      alt: Image alt text
-      description: Explore curated nature spots, consider new recreational activities
-        and connect with the relevant professional support in your
-        neighbourhood.
+      alt: Wellbeing Map
+      description: "Navigate our dynamic and interactive hyper-localised map made just
+        for you - with curated nature spots, recreational activities and local
+        support. "
       image: /images/wellbeing map - revised.gif
+      subtitle: In your neighbourhood...
   - infopic:
-      title: Stories From Our Community
-      subtitle: Community stories
-      description: Check out our stories page and get to know people from our
-        communities and their journey with mental health.
-      button: view stories
-      url: /stories/bukit-timah/shefali/
-      image: /images/hbkt_stories_page.gif
+      title: Bukit Panjang Sedap!
+      subtitle: Uplifting our community...
+      description: Check out this Bukit Panjang town initiative to support our
+        home-based cooks and bakers.
+      button: Visit us
+      url: https://go.gov.sg/bpsedap
+      image: /images/BP_Sedap_2.JPEG
+      alt: BP Sedap
+  - infopic:
+      title: Zhenghua Food Rescue
+      subtitle: Add an image and text
+      id: infopic
+      description: Explore our community effort to reduce food wastage.
+      button: Stay updated
+      url: https://t.me/+I3oNkH7CREYzY2Q9
+      image: /images/Food_Rescue_4.JPG
       alt: Image alt text
 ---

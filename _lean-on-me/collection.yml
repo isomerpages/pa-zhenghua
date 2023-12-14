@@ -2,6 +2,7 @@ collections:
   lean-on-me:
     output: true
     order:
+      - Past Events/Sunset Sound Bathing.md
       - Past Events/Care4Care Caregiver Befriender Training For Youth.md
       - Past Events/Go Gai Gai!.md
       - Past Events/Carepacks Giveaway.md

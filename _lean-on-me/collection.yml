@@ -2,6 +2,7 @@ collections:
   lean-on-me:
     output: true
     order:
+      - About Lean On Me.md
       - Resources/.keep
       - Resources/Self Care and Wellbeing.md
       - Resources/Resources for Parents.md

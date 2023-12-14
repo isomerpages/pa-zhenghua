@@ -1,4 +1,5 @@
 collections:
   bp-town:
     output: true
-    order: []
+    order:
+      - Bukit Panjang Sedap.md

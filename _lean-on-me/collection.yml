@@ -2,8 +2,8 @@ collections:
   lean-on-me:
     output: true
     order:
-      - Wellbeing Map.md
       - About Lean On Me.md
+      - Wellbeing Map.md
       - Stories/.keep
       - "Stories/Bukit Panjang: Fion.md"
       - "Stories/Bukit Panjang: Angel.md"

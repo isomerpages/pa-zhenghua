@@ -1,0 +1,4 @@
+collections:
+  bp-town:
+    output: true
+    order: []

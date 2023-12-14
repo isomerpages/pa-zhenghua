@@ -49,8 +49,8 @@ sections:
       subtitle: By Zhenghua YN, IAEC and Green
       id: infopic
       description: Explore our community effort to reduce food wastage.
-      button: Stay updated
-      url: https://t.me/+I3oNkH7CREYzY2Q9
+      button: Find out more
+      url: /green/zhenghua-food-rescue
       image: /images/Food_Rescue_4.JPG
       alt: Image alt text
 ---

@@ -18,7 +18,7 @@ sections:
           url: https://go.gov.sg/cvjoinzhenghua
         - title: Our Stories
           description: ""
-          url: wellness/lean-on-me/stories/
+          url: wellness/lean-on-me/stories
         - title: Stay Connected
           description: ""
           url: https://go.gov.sg/zhsocials

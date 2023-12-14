@@ -2,5 +2,5 @@ collections:
   wellness:
     output: true
     order:
-      - Physical Wellness.md
       - Zhenghua Befrienders.md
+      - Physical Wellness.md

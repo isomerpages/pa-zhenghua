@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - External Events/.keep
       - Past Events/Pastel Nagomi.md
       - Past Events/Yarn Macrame.md
       - Past Events/The Alchemy of Natural Dye.md

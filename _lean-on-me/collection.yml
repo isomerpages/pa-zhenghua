@@ -2,6 +2,7 @@ collections:
   lean-on-me:
     output: true
     order:
+      - All Events.md
       - About Lean On Me.md
       - Wellbeing Map.md
       - Resources/.keep

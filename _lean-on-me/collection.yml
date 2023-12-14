@@ -2,6 +2,7 @@ collections:
   lean-on-me:
     output: true
     order:
+      - Past Events/Focus Group Discussions.md
       - Past Events/.keep
       - External Events/Nanyang Youth Network Event.md
       - External Events/Public Forum Event.md

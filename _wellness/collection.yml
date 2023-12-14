@@ -1,5 +1,4 @@
 collections:
   wellness:
     output: true
-    order:
-      - Physical Wellness.md
+    order: []

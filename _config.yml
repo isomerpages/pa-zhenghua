@@ -3,7 +3,7 @@ url: https://www.zhenghua.pa.gov.sg
 favicon: /images/_HBKT__Microsite___Zhenghua_CC_Logo__1_.png
 colors:
   primary-color: "#b91823"
-  secondary-color: "#b91823"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
       color: "#1094f9"

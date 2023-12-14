@@ -3,20 +3,18 @@ collections:
     output: true
     order:
       - About Lean On Me.md
-      - Wellbeing Map.md
-      - Stories/.keep
-      - "Stories/Bukit Panjang: Fion.md"
-      - "Stories/Bukit Panjang: Angel.md"
-      - "Stories/Bukit Timah: George.md"
-      - "Stories/Bukit Timah: Shefali.md"
-      - "Stories/Cashew: Eng Hiong.md"
-      - "Stories/Ulu Pandan: Zach.md"
-      - "Stories/Zhenghua: Nora.md"
-      - "Stories/Zhenghua: Joyce.md"
+      - External Events/.keep
+      - External Events/Nanyang Youth Network Event.md
+      - External Events/Public Forum Event.md
+      - External Events/Beyond the Label Festival.md
+      - External Events/Spark the Change Fest.md
+      - External Events/Events by Fei Yue Family Community Services.md
+      - External Events/Common Mental Health Disorders Workshop.md
       - Events/.keep
       - Events/All Events.md
       - Events/Upcoming Events.md
       - Events/Focused Group Discussions.md
+      - Get Support.md
       - Past Events/.keep
       - Past Events/Pastel Nagomi.md
       - Past Events/Yarn Macrame.md
@@ -30,14 +28,6 @@ collections:
       - Past Events/Carepacks Giveaway.md
       - Past Events/Art Installation.md
       - Past Events/Focus Group Discussions.md
-      - External Events/.keep
-      - External Events/Nanyang Youth Network Event.md
-      - External Events/Public Forum Event.md
-      - External Events/Beyond the Label Festival.md
-      - External Events/Spark the Change Fest.md
-      - External Events/Events by Fei Yue Family Community Services.md
-      - External Events/Common Mental Health Disorders Workshop.md
-      - Get Support.md
       - Resources/.keep
       - Resources/Self Care and Wellbeing.md
       - Resources/Resources for Parents.md
@@ -45,3 +35,13 @@ collections:
       - Resources/Resources for Caregivers.md
       - Resources/Financial Assistance.md
       - Resources/Supporting Others.md
+      - Stories/.keep
+      - "Stories/Bukit Panjang: Fion.md"
+      - "Stories/Bukit Panjang: Angel.md"
+      - "Stories/Bukit Timah: George.md"
+      - "Stories/Bukit Timah: Shefali.md"
+      - "Stories/Cashew: Eng Hiong.md"
+      - "Stories/Ulu Pandan: Zach.md"
+      - "Stories/Zhenghua: Nora.md"
+      - "Stories/Zhenghua: Joyce.md"
+      - Wellbeing Map.md

@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Past Events/.keep
+      - External Events/Nanyang Youth Network Event.md
       - External Events/Public Forum Event.md
       - External Events/Beyond the Label Festival.md
       - External Events/Spark the Change Fest.md

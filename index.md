@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: Wellbeing Map
       button: Explore Map
-      url: /wellbeing-map
+      url: /wellness/leanonme/wellbeing-map
       alt: Wellbeing Map
       description: Navigate our dynamic and interactive hyper-localised map made just
         for you - with curated nature spots, recreational activities and local

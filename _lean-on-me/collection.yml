@@ -2,6 +2,7 @@ collections:
   lean-on-me:
     output: true
     order:
+      - Past Events/Breathe & Relax.md
       - Past Events/Sunrise Yoga.md
       - Past Events/Creative Nature Therapy.md
       - Past Events/Sunset Sound Bathing.md

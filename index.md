@@ -13,18 +13,15 @@ sections:
       button: Learn more
       url: /about/about-zhenghua
       key_highlights:
-        - title: Events
+        - title: Get Involved
           description: ""
-          url: /events/upcoming-events/
-        - title: Stories
+          url: https://go.gov.sg/cvjoinzhenghua
+        - title: Our Stories
           description: ""
           url: stories/bukit-timah/shefali/
-        - title: Wellbeing Map
+        - title: Stay Connected
           description: ""
-          url: /wellbeing-map
-        - title: Resources
-          description: ""
-          url: /all-resources
+          url: https://go.gov.sg/zhsocials
       variant: center
       size: md
       alignment: left

@@ -3,11 +3,11 @@ links:
   - title: About Us
     collection: about
   - title: Cares
-    url: /cares
+    collection: cares
   - title: Culture
-    url: /culture
+    collection: culture
   - title: Green
-    url: /Green
+    collection: green
   - title: Wellness
     url: /wellness
     sublinks:
@@ -17,7 +17,5 @@ links:
         url: /wellness/zhenghua-befrienders/
       - title: Physical Wellness
         url: /wellness/physical-wellness/
-  - title: BP Town
-    url: /bp-town
   - title: Contact Us
     url: /contact-us/

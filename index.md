@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Zhenghua
       subtitle: "#WhereWeBelong"
-      background: /images/HBPTC_Homepagebanner_min.jpg
+      background: /images/Website_landing_banner_updated.png
       button: Learn more
       url: /about/about-zhenghua
       key_highlights:

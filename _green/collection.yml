@@ -2,4 +2,5 @@ collections:
   green:
     output: true
     order:
+      - Cash for Trash.md
       - Zhenghua Food Rescue.md

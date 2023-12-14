@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - About Lean On Me.md
-      - Resources/.keep
-      - Resources/Self Care and Wellbeing.md
-      - Resources/Resources for Parents.md
-      - Resources/Resources for Youth.md
-      - Resources/Resources for Caregivers.md
-      - Resources/Financial Assistance.md
-      - Resources/Supporting Others.md
       - Stories/.keep
       - "Stories/Bukit Panjang: Fion.md"
       - "Stories/Bukit Panjang: Angel.md"
@@ -44,3 +37,10 @@ collections:
       - External Events/Events by Fei Yue Family Community Services.md
       - External Events/Common Mental Health Disorders Workshop.md
       - Get Support.md
+      - Resources/.keep
+      - Resources/Self Care and Wellbeing.md
+      - Resources/Resources for Parents.md
+      - Resources/Resources for Youth.md
+      - Resources/Resources for Caregivers.md
+      - Resources/Financial Assistance.md
+      - Resources/Supporting Others.md

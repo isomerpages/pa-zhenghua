@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events.md
-      - All Events.md
       - About Lean On Me.md
       - Wellbeing Map.md
       - Resources/.keep

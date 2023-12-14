@@ -1,16 +1,20 @@
 logo: /images/logos 19 jul 2.jpeg
 links:
-  - title: About
+  - title: About Us
     collection: about
-  - title: Wellbeing Map
-    url: /wellbeing-map
-  - title: Resources
-    resource_room: true
+  - title: Cares
+    url: /cares
+  - title: Culture
+    url: /culture
+  - title: Green
+    url: /Green
+  - title: Wellness
+    url: /wellness
+  - title: BP Town
+    url: /bp-town
+  - title: Contact Us
+    url: /contact-us/
   - title: Stories
     collection: stories
   - title: Lean On Me Events
     collection: events
-  - title: Get Support
-    url: /get-support/
-  - title: Contact Us
-    url: /contact-us/

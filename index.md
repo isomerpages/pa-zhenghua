@@ -2,7 +2,7 @@
 layout: homepage
 title: Zhenghua CC
 description: An Isomer site of the Singapore Government
-image: /images/Transparent_ZHCC_logo.png
+image: /images/Draft_2_ZHCC_logo_no_background.png
 permalink: /
 notification: ""
 sections:

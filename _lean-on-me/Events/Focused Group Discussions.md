@@ -3,8 +3,9 @@ title: Focused Group Discussions
 permalink: /lean-on-me/events/fgd/
 description: ""
 third_nav_title: Events
+variant: markdown
 ---
-![](/images/fgd%20gif.gif)
+![](/images/Lean%20On%20Me/fgd%20gif.gif)
 
 In pursuit of a strategic and targeted approach, an essential component of our methodology involved the conduct of focus group discussions (FGD). These deliberative sessions served as a valuable means to collect indispensable findings and insights. The information garnered therein became the bedrock upon which the committee meticulously crafted and programmed a series of purposeful strategic events, meticulously tailored to cater to the distinct needs of our esteemed residents.
 

@@ -3,7 +3,31 @@ collections:
     output: true
     order:
       - About Lean On Me.md
-      - Wellbeing Map.md
+      - Get Support.md
+      - Events/.keep
+      - Events/All Events.md
+      - Events/Upcoming Events.md
+      - Events/Focused Group Discussions.md
+      - External Events/.keep
+      - External Events/Nanyang Youth Network Event.md
+      - External Events/Public Forum Event.md
+      - External Events/Beyond the Label Festival.md
+      - External Events/Spark the Change Fest.md
+      - External Events/Events by Fei Yue Family Community Services.md
+      - External Events/Common Mental Health Disorders Workshop.md
+      - Past Events/.keep
+      - Past Events/Pastel Nagomi.md
+      - Past Events/Yarn Macrame.md
+      - Past Events/The Alchemy of Natural Dye.md
+      - Past Events/Breathe & Relax.md
+      - Past Events/Sunrise Yoga.md
+      - Past Events/Creative Nature Therapy.md
+      - Past Events/Sunset Sound Bathing.md
+      - Past Events/Care4Care Caregiver Befriender Training For Youth.md
+      - Past Events/Go Gai Gai!.md
+      - Past Events/Carepacks Giveaway.md
+      - Past Events/Art Installation.md
+      - Past Events/Focus Group Discussions.md
       - Resources/.keep
       - Resources/Self Care and Wellbeing.md
       - Resources/Resources for Parents.md
@@ -12,13 +36,12 @@ collections:
       - Resources/Financial Assistance.md
       - Resources/Supporting Others.md
       - Stories/.keep
-      - Stories/Bukit Timah.md
-      - Stories/Bukit Panjang.md
-      - Stories/Cashew.md
-      - Stories/Ulu Pandan.md
-      - Stories/Zhenghua.md
-      - Events/.keep
-      - Events/All Events.md
-      - Events/Art Installation.md
-      - Events/Focused Group Discussions.md
-      - Get Support.md
+      - "Stories/Bukit Panjang: Angel.md"
+      - "Stories/Bukit Panjang: Fion.md"
+      - "Stories/Bukit Timah: George.md"
+      - "Stories/Bukit Timah: Shefali.md"
+      - "Stories/Cashew: Eng Hiong.md"
+      - "Stories/Ulu Pandan: Zach.md"
+      - "Stories/Zhenghua: Joyce.md"
+      - "Stories/Zhenghua: Nora.md"
+      - Wellbeing Map.md

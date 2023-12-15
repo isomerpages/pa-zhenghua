@@ -2,67 +2,53 @@
 layout: homepage
 title: Zhenghua CC
 description: An Isomer site of the Singapore Government
-image: /images/logos 19 jul 2.jpeg
+image: /images/Draft_2_ZHCC_logo_no_text_no_background.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: Lean On Me
-      subtitle: A Zhenghua Initiative with Holland-Bukit Timah and Bukit Panjang GROs
-      background: /images/landing banner.jpg
-      button: About Lean On Me
-      url: /about/about-the-initiative
+      title: Zhenghua
+      subtitle: "#WhereWeBelong"
+      background: /images/3Website_landing_banner.png
       key_highlights:
-        - title: Events
+        - title: Get Involved
           description: ""
-          url: /events/upcoming-events/
-        - title: Stories
+          url: https://go.gov.sg/cvjoinzhenghua
+        - title: Our Stories
           description: ""
-          url: stories/bukit-timah/shefali/
-        - title: Wellbeing Map
+          url: /lean-on-me/stories/bukit-panjang-angel/
+        - title: Stay Connected
           description: ""
-          url: /wellbeing-map
-        - title: Resources
-          description: ""
-          url: /all-resources
-  - infopic:
-      title: Upcoming Events
-      id: infopic
-      description: Start your well-being journey through our events! Discover
-        workshops, connect with like-minded individuals, and find inspiration
-        for a more purposeful life.
-      button: explore here
-      url: /events/upcoming-events/
-      image: /images/_HBKT__Isomer_Events_Banner.png
-      alt: Upcoming events
-  - infopic:
-      title: Community Yarnbombing Installation Finale
-      subtitle: Art Exhibition
-      description: The epic yarn adventure has reached its dazzling finale! Did you
-        dive into the yarn frenzy and snag a chance at the ultimate giveaway?
-      button: check out the installations
-      alt: Image alt text
-      url: /events/art-installation
-      image: /images/art installations_finale.gif
-  - infopic:
-      title: Stories From Our Community
-      subtitle: Community stories
-      description: Check out our stories page and get to know people from our
-        communities and their journey with mental health.
-      button: view stories
-      url: /stories/bukit-timah/shefali/
-      image: /images/hbkt_stories_page.gif
-      alt: Image alt text
+          url: /about/social-media/
+      variant: image
+      size: md
+      alignment: left
   - infopic:
       title: Wellbeing Map
       button: Explore Map
-      url: /wellbeing-map
-      alt: Image alt text
-      description: Explore curated nature spots, consider new recreational activities
-        and connect with the relevant professional support in your
-        neighbourhood.
+      url: /lean-on-me/wellbeing-map
+      alt: Wellbeing Map
+      description: Navigate our dynamic and interactive hyper-localised map made just
+        for you - with curated nature spots, recreational activities and local
+        support.
       image: /images/wellbeing map - revised.gif
-  - resources:
-      title: Resources
-      button: View more
+      subtitle: In your neighbourhood...
+  - infopic:
+      title: Bukit Panjang Sedap!
+      subtitle: Uplifting our community...
+      description: Check out this Bukit Panjang town initiative to support our
+        home-based cooks and bakers.
+      button: Visit us
+      url: https://go.gov.sg/bpsedap
+      image: /images/BP_Sedap_2.JPEG
+      alt: BP Sedap
+  - infopic:
+      title: Zhenghua Food Rescue
+      subtitle: By Zhenghua YN, IAEC and Green
+      id: infopic
+      description: Explore our community effort to reduce food wastage.
+      button: Find out more
+      url: /green/zhenghua-food-rescue
+      image: /images/Food_Rescue_4.JPG
+      alt: Image alt text
 ---

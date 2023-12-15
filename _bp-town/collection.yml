@@ -1,0 +1,5 @@
+collections:
+  bp-town:
+    output: true
+    order:
+      - Bukit Panjang Sedap!.md

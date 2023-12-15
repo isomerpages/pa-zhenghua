@@ -1,0 +1,7 @@
+collections:
+  green:
+    output: true
+    order:
+      - Cash for Trash.md
+      - Waste Paper Recycling.md
+      - Zhenghua Food Rescue.md

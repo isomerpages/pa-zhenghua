@@ -10,8 +10,6 @@ sections:
       title: Zhenghua
       subtitle: "#WhereWeBelong"
       background: /images/3Website_landing_banner.png
-      button: Learn more
-      url: /about/about-zhenghua
       key_highlights:
         - title: Get Involved
           description: ""

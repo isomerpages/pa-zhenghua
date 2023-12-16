@@ -49,6 +49,6 @@ sections:
       description: Join our community effort to reduce food wastage.
       button: Find out more
       url: /green/zhenghua-food-rescue
-      image: /images/Food_Rescue_website_preview.jpg
+      image: /images/Food_Rescue_Poster_for_Web.png
       alt: Image alt text
 ---

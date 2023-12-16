@@ -31,7 +31,7 @@ sections:
       description: Navigate our dynamic and interactive hyper-localised map made just
         for you - with curated nature spots, recreational activities and local
         support.
-      image: /images/wellbeing map - revised.gif
+      image: /images/Lean On Me/wellbeing map.gif
       subtitle: In your neighbourhood...
   - infopic:
       title: Bukit Panjang Sedap!

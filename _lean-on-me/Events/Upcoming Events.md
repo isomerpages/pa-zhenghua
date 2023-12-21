@@ -10,7 +10,7 @@ third_nav_title: Events
 
 ## **November**
 
-|![](/images/fragrance.png)|![](/images/mandala%20icing.png)| 
+|![](/images/Lean%20On%20Me/fragrance.png)|![](/images/Lean%20On%20Me/mandala%20icing.png)| 
 | -------- | -------- |
 | **Fragrance Therapy Workshop**| **Mandala Icing Cookie Workshop**  |
 | 24 Nov 2023, FRI | 25 Nov 2023, SAT|
@@ -20,7 +20,7 @@ third_nav_title: Events
 
 ## **December**
 
-|![Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being](/images/photo_2023-10-11_10-07-19.jpg)| ![](/images/cyantoype.png)|
+|![](/images/Lean%20On%20Me/photo_2023-10-11_10-07-19.jpg)|![](/images/Lean%20On%20Me/cyantoype.png)|
 | --------| -------- |
 | **Artful Bites: Cookie Painting Workshop for Self-Appreciation and Mental Well-Being**|**Soulful Sunprints: Outdoor Printmaking for Wellness**| 
 | 16 Dec 2023, Sat |17 Dec 2023, SAT

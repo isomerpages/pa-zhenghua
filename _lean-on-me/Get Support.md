@@ -2,9 +2,8 @@
 title: Get Support
 permalink: /get-support/
 description: ""
+variant: markdown
 ---
-*[Update in Progress]*
-
 * Institute of Mental Health (IMH)  
 [https://www.imh.com.sg](https://www.imh.com.sg)<br>
 24-hour hotline: 6389-2000

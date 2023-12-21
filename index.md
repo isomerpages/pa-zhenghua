@@ -31,7 +31,7 @@ sections:
       description: Navigate our dynamic and interactive hyper-localised map made just
         for you - with curated nature spots, recreational activities and local
         support.
-      image: /images/wellbeing map - revised.gif
+      image: /images/Lean On Me/wellbeing map.gif
       subtitle: In your neighbourhood...
   - infopic:
       title: Bukit Panjang Sedap!
@@ -46,9 +46,9 @@ sections:
       title: Zhenghua Food Rescue
       subtitle: By Zhenghua YN, IAEC and Green
       id: infopic
-      description: Explore our community effort to reduce food wastage.
+      description: Join our community effort to reduce food wastage.
       button: Find out more
       url: /green/zhenghua-food-rescue
-      image: /images/Food_Rescue_4.JPG
+      image: /images/Food_Rescue_Poster_for_Web.png
       alt: Image alt text
 ---

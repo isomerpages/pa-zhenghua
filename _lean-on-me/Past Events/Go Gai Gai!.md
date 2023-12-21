@@ -9,4 +9,4 @@ In our ongoing commitment to fostering mental wellness among young individuals, 
 
 It is imperative to emphasise that our intention extends beyond the immediate term, as we are steadfast in our dedication to establishing a sustainable program that will endure beyond the confines of this initial initiative. Our partnership with Zhenghua Youth Networks ensures the sustainability and continued provision of mental health support and the promotion of holistic wellbeing for years to come.
 
-![](/images/go%20gai%20gai!%20gif.gif)
+![](/images/Lean%20On%20Me/go%20gai%20gai!%20gif.gif)

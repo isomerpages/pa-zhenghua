@@ -2,14 +2,14 @@
 layout: homepage
 title: Zhenghua CC
 description: An Isomer site of the Singapore Government
-image: /images/Draft_2_ZHCC_logo_no_text_no_background.png
+image: /images/Zh_logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Zhenghua
       subtitle: "#WhereWeBelong"
-      background: /images/3Website_landing_banner.png
+      background: /images/landing_banner.png
       key_highlights:
         - title: Get Involved
           description: ""

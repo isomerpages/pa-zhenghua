@@ -3,7 +3,7 @@ url: https://www.zhenghua.pa.gov.sg
 favicon: /images/Draft_2_ZHCC_logo_no_text_no_background.png
 colors:
   primary-color: "#5099d2"
-  secondary-color: "#ff8f96"
+  secondary-color: "#0167b9"
   media-colors:
     - title: media-color-one
       color: "#1094f9"

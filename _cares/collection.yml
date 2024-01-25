@@ -1,0 +1,6 @@
+collections:
+  cares:
+    output: true
+    order:
+      - Good Grocery Truck.md
+      - Home Improvement Programme.md

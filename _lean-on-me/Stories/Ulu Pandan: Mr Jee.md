@@ -6,7 +6,7 @@ description: Ulu Pandan Mr Jee
 third_nav_title: Stories
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kpaUPB3ZHu4?si=CtOiAMOQ_IOdmVFB"></iframe>
+<iframe height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kpaUPB3ZHu4?si=CtOiAMOQ_IOdmVFB"></iframe>
 </div>
 <p>Mr. Jee, not only a Grassroots Leader in Ulu Pandan but also a fervent
 mental health advocate, has been vocal about the challenges surrounding

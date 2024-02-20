@@ -2,9 +2,9 @@ collections:
   lean-on-me:
     output: true
     order:
-      - Past Events.md
       - About Lean On Me.md
       - Get Support.md
+      - Past Events.md
       - Resources/.keep
       - Resources/Self Care and Wellbeing.md
       - Resources/Resources for Parents.md

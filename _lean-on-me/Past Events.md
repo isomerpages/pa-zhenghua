@@ -141,7 +141,6 @@ activities as effective tools for promoting mental wellbeing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/go gai gai! gif.gif">
 </div>
-<p></p>
 <h2>Just For Papa</h2>
 <p>Breaking the silence and paving the way for fathers’ mental well-being
 support.</p>

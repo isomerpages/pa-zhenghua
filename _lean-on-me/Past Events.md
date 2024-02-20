@@ -4,7 +4,7 @@ permalink: /lean-on-me/past-events/
 variant: tiptap
 description: Lean On Me past events
 ---
-<h2>Art Installation</h2>
+<h2>Art Installations</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/crochet photos.gif">
 </div>
@@ -58,8 +58,11 @@ hearts—mental health, understanding, empathy, and belonging.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/giveaway_winners.png">
 </div>
 <h2>Breathe &amp; Relax</h2>
-<p>Breathwork an</p>
-<p>d meditation deepens relaxation, improved mood, and soothed physical illness.</p>
+<p>Breathwork and meditation deepens relaxation, improved mood, and soothed
+physical illness.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Breathe.JPG">
+</div>
 <p>Breathing is something we constantly do, often without paying any attention
 to it. Breathwork involves consciously and mindfully changing our breathing
 patterns to improve relaxation. Coupled with meditation, which calms the
@@ -67,9 +70,10 @@ mind, we can help soothe our nervous system.</p>
 <p>There are many reported benefits of breathwork and meditation, from reducing
 stress and anxiety to improving sleep and mood. It may also help with the
 symptoms of certain physical illnesses.</p>
-<p></p>
 <h2>Care4Care Caregiver Befriender Training for Youth</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Care4Care.jpg">
+</div>
 <h2>Carepacks Giveaway</h2>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -88,7 +92,9 @@ symptoms of certain physical illnesses.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/SAMH_Carepack_1_min.JPG">
 </div>
 <h2>Cookie Painting Workshop</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Cookie_painting.jpg">
+</div>
 <h2>Creative Nature Therapy</h2>
 <p>Our workshop, “Track of Life: Mapping Self-Awareness and Empathy with
 Youth Befrienders,” offered participants a journey into self-awareness
@@ -99,8 +105,16 @@ materials, fostering an atmosphere conducive to personal growth and understandin
 including Facilitator, Observer, and Participants, gaining invaluable insights
 into effective communication and interpersonal dynamics.</p>
 <p></p>
-<h2>Cyano</h2>
-<p></p>
+<h2>Cyanotype (Outdoor Printing)</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Copy_of_17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Copy_of_22.jpg">
+</div>
 <h2>Focus Group Discussions</h2>
 <p>These deliberative sessions served as a valuable means to collect findings
 and insights. The information garnered became the bedrock upon which we
@@ -115,7 +129,9 @@ basis with regard to their mental wellbeing.</p>
 <p><a href="https://zhenghua.pa.gov.sg/files/fgd%20report%20summary.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Read FGD Report Summary ➜</u></a>
 </p>
 <h2>Fragrance Therapy Workshop</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Screenshot_2024_02_20_at_4_06_25_PM.png">
+</div>
 <h2>Go Gai Gai!</h2>
 <p>In our ongoing commitment to fostering mental wellness among young individuals,
 we have collaborated with Zhenghua Youth Network to initiate a programme
@@ -127,7 +143,19 @@ activities as effective tools for promoting mental wellbeing.</p>
 </div>
 <p></p>
 <h2>Just For Papa</h2>
+<p>Breaking the silence and paving the way for fathers’ mental well-being
+support.</p>
+<p>Today’s fathers are redefining their roles, moving beyond just being providers
+to becoming active agents in their children’s lives.</p>
+<p>This session created a safe space for authentic sharing from fathers in
+the community and a platform for connecting with other fathers who share
+similar challenges, breaking down barriers and stigmas.</p>
+<p><a href="https://www.8world.com/singapore/bukit-timah-and-bukit-panjang-first-ever-men-only-event-2350931?fbclid=IwAR3nJl2dxYtigWV7F8Thmh3DaW8VjkI2gCWsl3bh0SkiIl079LgHJqjPq6c" rel="noopener noreferrer nofollow" target="_blank">Media coverage</a>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Copy_of_19.jpg">
+</div>
 <h2>Launch Event</h2>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -135,7 +163,9 @@ activities as effective tools for promoting mental wellbeing.</p>
 </div>
 <p></p>
 <h2>Mandala Icing Cookie Workshop</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/tempImagepVYUlC.jpg">
+</div>
 <h2>Pastel Nagomi</h2>
 <p>Participants immersed themselves in the therapeutic world of Pastel Nagomi
 Art, a gentle and mindful art form originating from Japan. The workshop

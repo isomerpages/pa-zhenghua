@@ -2,5 +2,6 @@ collections:
   culture:
     output: true
     order:
+      - Chinese New Year 2024.md
       - Father's Day Giveaway 2023.md
       - Mother’s Day Giveaway 2023.md

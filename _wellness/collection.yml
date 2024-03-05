@@ -2,6 +2,7 @@ collections:
   wellness:
     output: true
     order:
+      - Wellbeing Map.md
       - Get Support.md
       - Lean On Me.md
       - Physical Wellness.md

@@ -1,0 +1,10 @@
+collections:
+  lean-on-me-2:
+    output: true
+    order:
+      - About Lean On Me.md
+      - Get Support.md
+      - Past Events.md
+      - Resources/.keep
+      - Stories/.keep
+      - Wellbeing Map.md

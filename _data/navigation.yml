@@ -9,10 +9,20 @@ links:
   - title: Green
     collection: green
   - title: Wellness
-    url: /lean-on-me/about/
+    url: /wellness/support
     sublinks:
+      - title: Get Support
+        url: /wellness/support
       - title: Lean On Me
-        url: /lean-on-me/about/
+        url: /wellness/leanonme
+      - title: Physical Wellness
+        url: /wellness/physical-wellness
+      - title: Resources
+        url: /wellness/resources/financial-assistance/
+      - title: Stories
+        url: /wellness/stories/bukitpanjang-angel/
+      - title: Wellbeing Map
+        url: /wellness/wellbeing-map
   - title: BP Town
     collection: bp-town
   - title: Contact Us

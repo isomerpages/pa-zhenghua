@@ -16,7 +16,7 @@ sections:
           url: https://go.gov.sg/cvjoinzhenghua
         - title: Our Stories
           description: ""
-          url: /lean-on-me/stories/bukit-panjang-angel/
+          url: /wellness/stories/bukitpanjang-angel/
         - title: Stay Connected
           description: ""
           url: /about/social-media/
@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Wellbeing Map
       button: Explore Map
-      url: /lean-on-me/wellbeing-map
+      url: /wellness/wellbeing-map
       alt: Wellbeing Map
       description: Navigate our dynamic and interactive hyper-localised map made just
         for you - with curated nature spots, recreational activities and local

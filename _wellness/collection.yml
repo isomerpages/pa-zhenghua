@@ -2,6 +2,7 @@ collections:
   wellness:
     output: true
     order:
+      - Resources/.keep
       - Stories/.keep
       - "Stories/Bukit Panjang: Angel.md"
       - "Stories/Bukit Panjang: Fion.md"

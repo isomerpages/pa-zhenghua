@@ -2,13 +2,16 @@ collections:
   wellness:
     output: true
     order:
+      - Get Support.md
+      - Lean On Me.md
+      - Physical Wellness.md
+      - Resources/.keep
       - Resources/Supporting Others.md
       - Resources/Financial Assistance.md
       - Resources/Resources for Caregivers.md
       - Resources/Resources for Youth.md
       - Resources/Resources for Parents.md
       - Resources/Self Care and Wellbeing.md
-      - Resources/.keep
       - Stories/.keep
       - "Stories/Bukit Panjang: Angel.md"
       - "Stories/Bukit Panjang: Fion.md"
@@ -21,6 +24,3 @@ collections:
       - "Stories/Zhenghua: Nora.md"
       - "Stories/Zhenghua: Yong Feeh.md"
       - Wellbeing Map.md
-      - Get Support.md
-      - Lean On Me.md
-      - Physical Wellness.md

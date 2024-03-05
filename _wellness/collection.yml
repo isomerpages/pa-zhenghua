@@ -2,17 +2,17 @@ collections:
   wellness:
     output: true
     order:
-      - "Stories/Zhenghua: Yong Feeh.md"
-      - "Stories/Zhenghua: Nora.md"
-      - "Stories/Zhenghua: Joyce.md"
-      - "Stories/Ulu Pandan: Zach.md"
-      - "Stories/Ulu Pandan: Mr Jee.md"
-      - "Stories/Cashew: Eng Hiong.md"
-      - "Stories/Bukit Timah: Shefali.md"
-      - "Stories/Bukit Timah: George.md"
-      - "Stories/Bukit Panjang: Fion.md"
-      - "Stories/Bukit Panjang: Angel.md"
       - Stories/.keep
+      - "Stories/Bukit Panjang: Angel.md"
+      - "Stories/Bukit Panjang: Fion.md"
+      - "Stories/Bukit Timah: George.md"
+      - "Stories/Bukit Timah: Shefali.md"
+      - "Stories/Cashew: Eng Hiong.md"
+      - "Stories/Ulu Pandan: Mr Jee.md"
+      - "Stories/Ulu Pandan: Zach.md"
+      - "Stories/Zhenghua: Joyce.md"
+      - "Stories/Zhenghua: Nora.md"
+      - "Stories/Zhenghua: Yong Feeh.md"
       - Wellbeing Map.md
       - Get Support.md
       - Lean On Me.md

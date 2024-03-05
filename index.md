@@ -16,7 +16,7 @@ sections:
           url: https://go.gov.sg/cvjoinzhenghua
         - title: Our Stories
           description: ""
-          url: /wellness/stories/bukitpanjang-angel
+          url: /wellness/stories/bukitpanjang-angel/
         - title: Stay Connected
           description: ""
           url: /about/social-media/

@@ -2,6 +2,7 @@ collections:
   wellness:
     output: true
     order:
+      - "Stories/Ulu Pandan: Mr Jee.md"
       - "Stories/Cashew: Eng Hiong.md"
       - "Stories/Bukit Timah: Shefali.md"
       - "Stories/Bukit Timah: George.md"

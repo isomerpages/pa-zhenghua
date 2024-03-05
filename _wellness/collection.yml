@@ -2,7 +2,6 @@ collections:
   wellness:
     output: true
     order:
-      - Stories.md
       - Wellbeing Map.md
       - Get Support.md
       - Lean On Me.md

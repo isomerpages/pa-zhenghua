@@ -12,9 +12,9 @@ links:
     url: /wellness/
     sublinks:
       - title: Lean On Me
-        url: wellness/lean-on-me/about/
+        url: /wellness/lean-on-me/
       - title: Physical Wellness
-        url: wellness/physicalwellness
+        url: /wellness/physicalwellness
   - title: BP Town
     collection: bp-town
   - title: Contact Us

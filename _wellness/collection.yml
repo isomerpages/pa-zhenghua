@@ -2,5 +2,6 @@ collections:
   wellness:
     output: true
     order:
+      - Get Support.md
       - Lean On Me.md
       - Physical Wellness.md

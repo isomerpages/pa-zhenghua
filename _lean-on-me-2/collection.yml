@@ -1,5 +1,5 @@
 collections:
-  lean-on-me:
+  lean-on-me-2:
     output: true
     order:
       - About Lean On Me.md

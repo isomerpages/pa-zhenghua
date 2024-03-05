@@ -2,6 +2,7 @@ collections:
   wellness:
     output: true
     order:
+      - Resources/Resources for Youth.md
       - Resources/Resources for Parents.md
       - Resources/Self Care and Wellbeing.md
       - Resources/.keep

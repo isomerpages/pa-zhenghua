@@ -2,5 +2,5 @@ collections:
   wellness:
     output: true
     order:
-      - "Lean On Me: About.md"
+      - Lean On Me.md
       - Physical Wellness.md

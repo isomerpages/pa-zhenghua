@@ -14,10 +14,7 @@ description: Zhenghua's social media platforms
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://instagram.com/zhenghuawherewebelong"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tiktok_icon.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://tiktok.com/@zhenghuawherewebelong"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tiktok_icon.jpg"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/zhenghuawherewebelong"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png"></a>
 </th>

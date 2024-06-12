@@ -8,23 +8,19 @@ variant: tiptap
 <h3>Links and Downloadable Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northw</a>
-<a href="/files/FA_NWCDC_MentalHealthToolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">est Toolkit (English)</a>
+<p><a href="/files/FA_NWCDC_MentalHealthToolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwest Toolkit (English)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwest T</a>
-<a href="/files/mwtoolkitmandarin.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">oolkit (Mandarin)</a>
+<p><a href="/files/mwtoolkitmandarin.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwest Toolkit (Mandarin)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwe</a>
-<a href="/files/mwtoolkitmalay.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">st Toolkit (Malay)</a>
+<p><a href="/files/mwtoolkitmalay.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwest Toolkit (Malay)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwest To</a>
-<a href="/files/mwtoolkittamil.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/mental%20wellness%20@%20northwest%20toolkit.pdf" rel="noopener noreferrer nofollow" target="_blank">olkit (Tamil)</a>
+<p><a href="/files/mwtoolkittamil.pdf" rel="noopener noreferrer nofollow" target="_blank">Mental Wellness @ Northwest Toolkit (Tamil)</a>
 </p>
 </li>
 <li>

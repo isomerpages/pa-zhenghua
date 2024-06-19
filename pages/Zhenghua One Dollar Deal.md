@@ -9,8 +9,8 @@ description: Zhenghua One Dollar Deal
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODD_Poster.jpg">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="onepa.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ice_cream.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">July 2024 Deal</div><div class="isomer-card-link">Double Scoop Classic Gelato</div></div></a>
-<a rel="noopener noreferrer nofollow" href="onepa.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ice_cream.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">July 2024 Deal</div><div class="isomer-card-link">Double Scoop Classic Gelato</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Aug_deal_photo.jpg">

@@ -51,9 +51,8 @@ at the same NRIC address.</p>
 of contingencies that prevent the event from proceeding.</p>
 </li>
 <li>
-<p>Each ticket for the July 2024 deal entitles the ticket holder to redeem
-one double scoop of classic flavour gelato ice cream in a cup. Ticket validity
-is limited to the event date and time specified on the ticket.</p>
+<p>Ticket validity is limited to the event date and time specified on the
+ticket.</p>
 </li>
 <li>
 <p>To redeem your ticket, please arrive at the stated venue during your scheduled

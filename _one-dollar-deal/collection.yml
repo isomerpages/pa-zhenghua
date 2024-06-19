@@ -1,5 +1,0 @@
-collections:
-  one-dollar-deal:
-    output: true
-    order:
-      - Register Now!.md

@@ -1,5 +1,4 @@
 collections:
   one-dollar-deal:
     output: true
-    order:
-      - One Dollar Deal Registration.md
+    order: []

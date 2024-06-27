@@ -6,7 +6,7 @@ description: Zhenghua One Dollar Deal
 ---
 <h2>Purchase your tickets online now!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODD_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suraj_Copy_Zhenghua__1_Deal.jpg">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ice_cream.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">July 2024 Deal</div><div class="isomer-card-link">Double Scoop Classic Gelato</div></div></a>

@@ -3,6 +3,7 @@ title: Zhenghua One Dollar Deal
 permalink: /zhenghua-one-dollar-deal/
 variant: tiptap
 description: Zhenghua One Dollar Deal
+image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
 <div class="isomer-image-wrapper">
@@ -18,8 +19,8 @@ description: Zhenghua One Dollar Deal
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">August 2024 Deal</div>
-<div class="isomer-card-description">Zhenghua Grown Vegetables and Local Eggs: 1 packet of chyme sim (250g),
-1 packet of xiao bai cai (250g) &amp; 10 eggs (500g)</div>
+<div class="isomer-card-description">Zhenghua Grown Vegetables and SG Eggs: 1 packet of chye sim (250g), 1
+packet of xiao bai cai (250g) &amp; 10 eggs (500g)</div>
 <div class="isomer-card-link">Register by 29 July 2024</div>
 </div>
 </a>

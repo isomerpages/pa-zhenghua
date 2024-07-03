@@ -6,6 +6,10 @@ description: Zhenghua One Dollar Deal
 image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
+<blockquote>
+<p>Due to technical issues, registration will open soonest once available.
+We apologise for the inconvenience caused and thank you for your understanding.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal_Poster.png">
 </div>

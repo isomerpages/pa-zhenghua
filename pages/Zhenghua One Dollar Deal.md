@@ -10,20 +10,20 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal_Poster.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-double-scoop-classic-gelato-59981753" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ice_cream.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">July 2024 Deal</div><div class="isomer-card-description">Double Scoop Classic Gelato Flavours (subject to availability): Vanilla | Oreo | Nutella | Earl Grey | Salted Caramel | Coffee | Chocolate 72% | Ube | Lychee Sorbet</div><div class="isomer-card-link">Register by 12 July 2024</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-zhenghua-grown-vegetables-sg-eggs-68286121" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Aug_deal_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ice_cream.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">August 2024 Deal</div>
-<div class="isomer-card-description">Zhenghua Grown Vegetables and SG Eggs: 1 packet of chye sim (250g), 1
-packet of xiao bai cai (250g) &amp; 10 eggs (500g) Bring your own bag/trolley!</div>
-<div class="isomer-card-link">Register by 29 July 2024</div>
+<div class="isomer-card-title">[SOLD OUT] July Deal</div>
+<div class="isomer-card-description">Double Scoop Classic Gelato Flavours (subject to availability): Vanilla
+| Oreo | Nutella | Earl Grey | Salted Caramel | Coffee | Chocolate 72%
+| Ube | Lychee Sorbet</div>
 </div>
-</a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-zhenghua-grown-vegetables-sg-eggs-68286121" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Aug_deal_photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">August Deal</div><div class="isomer-card-description">Zhenghua Grown Vegetables and SG Eggs: 1 packet of chye sim (250g), 1 packet of xiao bai cai (250g) &amp; 10 eggs (500g) Bring your own bag/trolley!</div><div class="isomer-card-link">Register by 29 July 2024</div></div></a>
 </div>
 <blockquote>
 <p></p>

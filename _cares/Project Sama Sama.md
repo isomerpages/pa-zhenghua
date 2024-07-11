@@ -5,18 +5,17 @@ variant: tiptap
 description: Project Sama Sama
 ---
 <p>In collaboration with SPH Media and Auresys Pte Ltd, Project Sama Sama
-@ North West has come to Zhenghua, launched on 6 July 2024 with the support
-of our grassroots volunteers!</p>
+@ North West launched in Zhenghua on 6 July 2024, with the support of our
+grassroots volunteers!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project_Sama_Sama.jpg">
 </div>
-<h4>What is <strong>Project Sama Sama @ North West</strong>?</h4>
 <p>Project Sama Sama extends 24/7 assistance to identified resource-low households
 through vending machines stocked with daily essentials such as fresh food,
 toiletries, hygiene and cleaning products. These residents will receive
 complimentary credits at the start of each month to redeem these necessities
-at their convenience.</p>
-<p>The word "Sama Sama" means togetherness and fostering a sense of community.</p>
+at their convenience. The word "Sama Sama" means togetherness and fostering
+a sense of community.</p>
 <p>This collaboration provides additional support to help our residents cope
 with the rising cost of living and the stress of daily expenses, complementing
 other modes of assistance.</p>

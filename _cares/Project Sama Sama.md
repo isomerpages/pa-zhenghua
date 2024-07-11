@@ -8,7 +8,7 @@ description: Project Sama Sama
 @ North West has come to Zhenghua, launched on 6 July 2024 with the support
 of our grassroots volunteers!</p>
 <p></p>
-<h4>What is <strong>Project Sama Sama @ North West</strong>? </h4>
+<h4>What is <strong>Project Sama Sama @ North West</strong>?</h4>
 <p>Project Sama Sama extends 24/7 assistance to identified resource-low households
 through vending machines stocked with daily essentials such as fresh food,
 toiletries, hygiene and cleaning products. These residents will receive

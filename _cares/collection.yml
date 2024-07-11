@@ -2,5 +2,6 @@ collections:
   cares:
     output: true
     order:
+      - Project Sama Sama.md
       - Good Grocery Truck.md
       - Home Improvement Programme.md

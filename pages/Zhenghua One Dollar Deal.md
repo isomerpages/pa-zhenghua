@@ -6,10 +6,6 @@ description: Zhenghua One Dollar Deal
 image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
-<blockquote>
-<p><strong><em>Due to technical issues when entering user’s postal code information, registration for September $1 Deal is temporarily unavailable. We will update once available and apologise for the inconvenience caused. Thank you for your understanding.</em></strong>
-</p>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/31_Jul_Zhenghua__1_Deal_Poster.png">
 </div>

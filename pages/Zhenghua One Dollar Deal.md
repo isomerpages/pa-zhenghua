@@ -14,7 +14,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Burger image" src="/images/One_Dollar_Deal_Website_Preview_Icons_min.png">
+<img style="width: 100%" height="auto" width="100%" alt="Burger image" src="/images/Screenshot_2024_09_16_at_12_57_30_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">

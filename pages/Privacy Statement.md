@@ -2,8 +2,8 @@
 title: Privacy Statement
 permalink: /privacy/
 description: ""
+variant: markdown
 ---
-#### Privacy Statement
 #### Government of Singapore Privacy Statement
 
 1. This is a Government Agency digital service. We adopt the same principles relating to your privacy as other Government of Singapore digital services.<br>

@@ -7,7 +7,14 @@ description: Zhenghua's social media platforms
 <h4>Connect with Zhenghua on our social media channels</h4>
 <p>Click on the icons below to follow and stay updated!</p>
 <p></p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://facebook.com/zhenghua"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facebook.png"></a>
@@ -23,7 +30,7 @@ description: Zhenghua's social media platforms
 </tr>
 </tbody>
 </table>
-<blockquote>
-<h4>#ZhenghuaWhereWeBelong</h4>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_29_at_9_18_32_AM.png">
+</div>
 <p></p>

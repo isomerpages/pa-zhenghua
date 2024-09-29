@@ -29,8 +29,5 @@ description: Zhenghua's social media platforms
 </th>
 </tr>
 </tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_29_at_9_18_32_AM.png">
-</div>
+</table><a class="isomer-image-wrapper" href="https://go.gov.sg/zhsocials"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_29_at_9_18_32_AM.png"></a>
 <p></p>

@@ -7,7 +7,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tissues__1_Deal_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="November Deal" src="/images/Zhenghua__1_Deal_Poster.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-milo-uht-200ml-less-sugar-1-carton-24-packets-27628854" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Milo" src="/images/Zhenghua__1_Deal_Poster_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">November Deal</div><div class="isomer-card-description">Milo UHT 200ml: 1 carton, 24 packets</div><div class="isomer-card-link">Register by 3 November 2024</div></div></a>

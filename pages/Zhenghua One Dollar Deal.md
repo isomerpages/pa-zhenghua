@@ -7,20 +7,19 @@ image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tissues__1_Deal_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="November Deal" src="/images/Zhenghua__1_Deal_Poster.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-tissue-paper-8-packs-3-ply-80498217" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tissue Image" src="/images/Tissue_Preview.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">October Deal</div><div class="isomer-card-description">Soft Pack Tissue Paper: 8 packs, 3-ply</div><div class="isomer-card-link">Register by 20 September 2024</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-milo-uht-200ml-less-sugar-1-carton-24-packets-27628854" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Milo" src="/images/Zhenghua__1_Deal_Poster_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">November Deal</div><div class="isomer-card-description">Milo UHT 200ml: 1 carton, 24 packets</div><div class="isomer-card-link">Register by 3 November 2024</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Burger image" src="/images/Screenshot_2024_09_16_at_12_57_30_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tissue Image" src="/images/Tissue_Preview.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">September Deal [SOLD OUT]</div>
-<div class="isomer-card-description">McDonald's Lunch Meal: McSpicy Set or Filet-o-Fish Set (with Milo Tetra
-Pack and Apple Slices).</div>
+<div class="isomer-card-title">October Deal [SOLD OUT]</div>
+<div class="isomer-card-description">Soft Pack Tissue Paper: 8 packs, 3-ply</div>
 </div>
 </div>
 </div>
@@ -28,7 +27,7 @@ Pack and Apple Slices).</div>
 <p></p>
 </blockquote>
 <h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
-<p><strong>November 2024: $1 Carton of Packet Drinks</strong>
+<p><strong>December 2024: $1 Senja Hawker Centre Meal</strong>
 </p>
 <p></p>
 <h4><em>Please note the following terms and conditions:</em></h4>

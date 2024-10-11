@@ -27,7 +27,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <p></p>
 </blockquote>
 <h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
-<p><strong>November 2024: $1 Carton of Packet Drinks</strong>
+<p><strong>December 2024: $1 Senja Hawker Centre Meal</strong>
 </p>
 <p></p>
 <h4><em>Please note the following terms and conditions:</em></h4>

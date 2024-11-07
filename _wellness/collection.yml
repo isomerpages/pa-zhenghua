@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Lean On Me.md
-      - Upcoming Events/.keep
       - Get Support.md
       - Physical Wellness.md
       - Resources/.keep

@@ -2,9 +2,9 @@ collections:
   wellness:
     output: true
     order:
-      - Lean On Me/Lean On Me.md
-      - Lean On Me/.keep
       - Get Support.md
+      - Lean On Me/.keep
+      - Lean On Me/Lean On Me.md
       - Physical Wellness.md
       - Resources/.keep
       - Resources/Financial Assistance.md

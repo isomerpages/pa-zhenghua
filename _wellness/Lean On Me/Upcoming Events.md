@@ -7,7 +7,7 @@ third_nav_title: Lean On Me
 ---
 <h1>Upcoming Events</h1>
 <p></p>
-<h4>Lean On Me: Bukit Panjang Town Caregivers Connect Network Gathering @ North West<br></h4>
+<h3>Lean On Me: Bukit Panjang Town Caregivers Connect Network Gathering @ North West<br></h3>
 <p>Come and meet fellow caregivers, connect with others and expand your social
 support network. Get ready for meaningful discussions, a Q&amp;A session
 with experts from AIC, Fei Yue, and more!

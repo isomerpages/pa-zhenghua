@@ -2,7 +2,6 @@ collections:
   wellness:
     output: true
     order:
-      - Upcoming Events/Lean On Me.md
       - Upcoming Events/.keep
       - Get Support.md
       - Physical Wellness.md

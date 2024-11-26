@@ -79,7 +79,6 @@ symptoms of certain physical illnesses.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Care4Care.jpg">
 </div>
 <h2>Carepacks Giveaway</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/message card (revised 1206).png">
 </div>
@@ -108,7 +107,6 @@ materials, fostering an atmosphere conducive to personal growth and understandin
 <p>Co-facilitation training and role play: Participants assumed diverse roles,
 including Facilitator, Observer, and Participants, gaining invaluable insights
 into effective communication and interpersonal dynamics.</p>
-<p></p>
 <h2>Cyanotype (Outdoor Printing)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/9.jpg">
@@ -155,16 +153,13 @@ the community and a platform for connecting with other fathers who share
 similar challenges, breaking down barriers and stigmas.</p>
 <p><a href="https://www.8world.com/singapore/bukit-timah-and-bukit-panjang-first-ever-men-only-event-2350931?fbclid=IwAR3nJl2dxYtigWV7F8Thmh3DaW8VjkI2gCWsl3bh0SkiIl079LgHJqjPq6c" rel="noopener noreferrer nofollow" target="_blank">Media coverage</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Copy_of_19.jpg">
 </div>
 <h2>Launch Event</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/HBKT_Launch_Photos___55_min.JPG">
 </div>
-<p></p>
 <h2>Mandala Icing Cookie Workshop</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/tempImagepVYUlC.jpg">
@@ -204,7 +199,6 @@ days ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/20231020_191242.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/20231020_182017.jpg">
 </div>
@@ -262,7 +256,7 @@ was held on October 12th!</p>
 in the Digital Age and fun activities. Together, we explored how to navigate
 the challenges of parenting in today's tech-driven world.</p>
 <p>Let's continue to support one another in this journey of fatherhood and
-community bonding!</p>
+community bonding! 🤝🏼💙</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Just For Papa 2.0" src="/images/Untitled_design.gif">
 </div>

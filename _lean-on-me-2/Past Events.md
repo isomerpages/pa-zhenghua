@@ -35,7 +35,11 @@ hearts—mental health, understanding, empathy, and belonging.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/04082023_72_min.JPG">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -205,7 +209,11 @@ days ahead.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/20231020_182017.jpg">
 </div>
 <h2>The Alchemy of Natural Dye</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -246,5 +254,26 @@ days ahead.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Photo_18_11_23__11_29_42_AM.jpg">
+</div>
+<p></p>
+<h2>Just For Papa 2.0</h2>
+<p>A huge shoutout to all the awesome dads who joined Just for Papa 2.0 that
+was held on October 12th!</p>
+<p>It was an amazing afternoon filled with insightful discussions on Fathering
+in the Digital Age and fun activities. Together, we explored how to navigate
+the challenges of parenting in today's tech-driven world.</p>
+<p>Let's continue to support one another in this journey of fatherhood and
+community bonding!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Just For Papa 2.0" src="/images/Untitled_design.gif">
+</div>
+<h2>Caregiver Connect Network Gathering</h2>
+<p>A meaningful gathering at the "Lean On Me: Caregiver Connect Network",
+where caregivers came together to share experiences, support one another
+and build a stronger community. Thank you to everyone who joined and made
+this event impactful. Together, we are strengthening the bonds that make
+Bukit Panjang Town special.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Caregiver Connect Network Gathering" src="/images/Caregiver_Connect.gif">
 </div>
 <p></p>

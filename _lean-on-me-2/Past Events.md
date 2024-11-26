@@ -255,7 +255,6 @@ days ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/Photo_18_11_23__11_29_42_AM.jpg">
 </div>
-<p></p>
 <h2>Just For Papa 2.0</h2>
 <p>A huge shoutout to all the awesome dads who joined Just for Papa 2.0 that
 was held on October 12th!</p>

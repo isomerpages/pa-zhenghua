@@ -266,6 +266,10 @@ where caregivers came together to share experiences, support one another
 and build a stronger community. Thank you to everyone who joined and made
 this event impactful. Together, we are strengthening the bonds that make
 Bukit Panjang Town special.</p>
+<p>To join the Caregivers Connect Network group, click the links below:
+<br><a href="https://go.gov.sg/caregivingfmbpt" rel="noopener nofollow" target="_blank">Caregiving For Family Members Chat Group</a>
+<br><a href="https://go.gov.sg/caregivingmwbpt" rel="noopener nofollow" target="_blank">Caregiving for Mental Wellness Chat Group</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver Connect Network Gathering" src="/images/Caregiver_Connect.gif">
 </div>

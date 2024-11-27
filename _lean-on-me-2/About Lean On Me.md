@@ -1,6 +1,6 @@
 ---
 title: About Lean On Me
-permalink: /lean-on-me/about/
+permalink: /lean-on-me-2/about/
 variant: tiptap
 description: ""
 ---

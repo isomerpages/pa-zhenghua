@@ -1,6 +1,6 @@
 ---
 title: About Lean On Me
-permalink: /wellness/leanonme/
+permalink: /wellness/leanonme/about/
 variant: tiptap
 description: ""
 third_nav_title: Lean On Me

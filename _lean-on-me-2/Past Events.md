@@ -1,6 +1,6 @@
 ---
 title: Past Events
-permalink: /lean-on-me/past-events/
+permalink: /lean-on-me-2/past-events/
 variant: tiptap
 description: Lean On Me past events
 ---

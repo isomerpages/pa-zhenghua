@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-permalink: /upcoming-events/
+permalink: /lean-on-me/upcoming-events/
 variant: tiptap
 description: ""
 third_nav_title: Lean On Me

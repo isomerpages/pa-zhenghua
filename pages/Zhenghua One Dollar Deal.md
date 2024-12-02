@@ -7,19 +7,19 @@ image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="December Deal" src="/images/12.png">
+<img style="width: 100%" height="auto" width="100%" alt="Jan 2025 Deal" src="/images/Actual_Copy_of_Zhenghua__1_Deal_Poster_4.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-canola-oil-1-litre-or-senja-hawker-deal-86803061" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hawker Meal Illustration" src="/images/13.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">December Deal</div><div class="isomer-card-description">Canola Oil (1 Litre) or Senja Hawker Centre Meal</div><div class="isomer-card-link">While stocks last</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-vacuum-packed-jasmine-rice-1-packet-2-5kg-60792026" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jasmine Rice" src="/images/Actual_Copy_of_Zhenghua__1_Deal_Poster_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">January 2025 Deal</div><div class="isomer-card-description">Vacuum Packed Jasmine Rice (1 Packet, 2.5kg)</div><div class="isomer-card-link">While stocks last!</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Milo" src="/images/Zhenghua__1_Deal_Poster_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Hawker Meal Illustration" src="/images/13.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">November Deal [SOLD OUT]</div>
-<div class="isomer-card-description">Milo UHT 200ml: 1 carton, 24 packets</div>
+<div class="isomer-card-title">December Deal [SOLD OUT]</div>
+<div class="isomer-card-description">Canola Oil (1 Litre) or Senja Hawker Centre Meal</div>
 </div>
 </div>
 </div>
@@ -27,7 +27,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <p></p>
 </blockquote>
 <h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
-<p><strong>January 2025: $1 Packet Rice (2.5kg)</strong>
+<p><strong>February 2025: $1 Carton of Packet Drinks</strong>
 </p>
 <p></p>
 <h4><em>Please note the following terms and conditions:</em></h4>

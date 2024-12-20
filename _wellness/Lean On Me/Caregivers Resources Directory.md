@@ -5,3 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Lean On Me
 ---
+<p><a href="/files/CAREGIVERS_RESOURCES_DIRECTORY.pdf" rel="noopener nofollow" target="_blank">Caregivers Resources Directory</a>
+</p>

@@ -22,16 +22,19 @@ from problematic use of the video games &amp; social media.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Event 1: 1st March 2025 (For parents with children aged 2 to 12 years old)</strong>
-<br>Event Time: 2pm to 4pm
+<p><strong>Event 1: For parents with children aged 2 to 12 years old</strong>
+<br>Date: 1 March 2025 (Saturday)
+<br>Time: 2:00 pm to 4:00 pm
 <br>Venue: New Life Fajar Hub
 <br>
 </p>
-<p><strong>Event 2: 15th March 2025&nbsp; (For parents with teen aged 13 to 17 years old)</strong>
-<br>Event Time: 2pm to 4pm
+<p><strong>Event 2: For parents with teen aged 13 to 17 years old</strong>
+<br>Date: 15 March 2025 (Saturday)
+<br>Time: 2:00 pm to 4:00 pm
 <br>Venue: New Life Fajar Hub
 <br>
-<br><strong>Join us and sign up here for free on 1st March or 15 March : <a href="https://go.gov.sg/fpambptlom" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpambptlom</a></strong>
+<br><strong>Sign up here for free! Join us on 1 March or 15 March!</strong>
+<br><strong><a href="https://go.gov.sg/fpambptlom" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpambptlom</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="For Papa and Mama" src="/images/Art___Science_of_Parenting_in_the_Digital_Age.png">

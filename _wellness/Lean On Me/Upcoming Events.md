@@ -5,24 +5,35 @@ variant: tiptap
 description: ""
 third_nav_title: Lean On Me
 ---
-<h1>Upcoming Events</h1>
+<h1><strong>Upcoming Events</strong></h1>
 <p></p>
-<h3>Lean On Me: Bukit Panjang Town Caregivers Connect Network Gathering @ North West<br></h3>
-<p>Come and meet fellow caregivers, connect with others and expand your social
-support network. Get ready for meaningful discussions, a Q&amp;A session
-with experts from AIC, Fei Yue, and more!
+<h3>For Papa and Mama - Bukit Panjang Town: Lean On Me (Parenting in the Digital Age) @ North West</h3>
+<p></p>
+<p><strong>Join us to empower your Digital Parenting:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn useful tips to manage children’s use of technology and guide them
+on protection against online risks.</p>
+</li>
+<li>
+<p>Gain practical ideas to help teenagers self-regulate and prevent them
+from problematic use of the video games &amp; social media.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Event 1: 1st March 2025 (For parents with children aged 2 to 12 years old)</strong>
+<br>Event Time: 2pm to 4pm
+<br>Venue: New Life Fajar Hub
 <br>
-<br>🗓 9 November 2024
-<br>⏰ 2:00pm - 4:00pm (Registration &amp; refreshments from 1:30 pm)
-<br>📍 New Life Youth Hub at Fajar, Blk 419 Fajar Road
+</p>
+<p><strong>Event 2: 15th March 2025&nbsp; (For parents with teen aged 13 to 17 years old)</strong>
+<br>Event Time: 2pm to 4pm
+<br>Venue: New Life Fajar Hub
 <br>
-<br>Special guests include Dr. Vivian Balakrishnan, Mr. Liang Eng Hwa and
-Mr. Edward Chia Bing Hui! Don’t miss this chance to connect and support
-one another.
-<br>
-<br>Register now for free!👇
-<br><a href="https://go.gov.sg/bptccng24" rel="noopener nofollow" target="_blank">Bukit Panjang Town Caregivers Connect Network Gathering</a>&nbsp;</p>
+<br><strong>Join us and sign up here for free on 1st March or 15 March : <a href="https://go.gov.sg/fpambptlom" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpambptlom</a></strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bukit Panjang Town Caregivers Connect Network Gathering" src="/images/Caregivers.png">
+<img style="width: 100%" height="auto" width="100%" alt="For Papa and Mama" src="/images/Art___Science_of_Parenting_in_the_Digital_Age.png">
 </div>
 <p></p>

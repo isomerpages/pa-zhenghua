@@ -7,7 +7,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actual_Copy_of_Zhenghua__1_Deal_Poster_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-green-tea-or-oolong-tea-1-carton-24-packets-55394059" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pokka" src="/images/photo_6325690252764759830_y.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">February Deal</div><div class="isomer-card-description">Pokka Green Tea or Pokka Oolong Tea (1 Carton - 24 packets)</div><div class="isomer-card-link">While stocks last!</div></div></a>

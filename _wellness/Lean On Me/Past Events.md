@@ -281,4 +281,14 @@ Bukit Panjang Town special.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver Connect Network Gathering" src="/images/Caregiver_Connect.gif">
 </div>
+<h2>Wellness Workshop with Woodlands Health @ North West</h2>
+<p>Empowering minds, nurturing relationships 🧠💞</p>
+<p>Our recent Wellness Workshop with Woodlands Health @ North West dove into
+conflict management and effective communication techniques.</p>
+<p>Whether in personal or professional spheres, these skills are invaluable
+for everyone.</p>
+<p>Thanks to all who participated! 🌱</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="b" src="/images/WhatsApp_Image_2025_01_20_at_6_53_02_PM_5.jpg">
+</div>
 <p></p>

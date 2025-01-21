@@ -288,7 +288,6 @@ conflict management and effective communication techniques.</p>
 <p>Whether in personal or professional spheres, these skills are invaluable
 for everyone.</p>
 <p>Thanks to all who participated! 🌱</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="b" src="/images/WhatsApp_Image_2025_01_20_at_6_53_02_PM_5.jpg">
 </div>

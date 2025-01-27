@@ -7,6 +7,19 @@ third_nav_title: Lean On Me
 ---
 <h1><strong>Upcoming Events</strong></h1>
 <p></p>
+<h3>Navigating the Teenage Terrain</h3>
+<p>A talk to equip Parents/Guardians of Youths between 12 - 25 years old
+with information on how to support their child's wellness, build communication
+and connection.</p>
+<p>Date: 26 February 2025 (Wednesday)
+<br>Time: 7:00 pm to 8:30 pm
+<br>Venue: Zoom (Online)
+<br>
+<br>Register here: <a href="https://go.gov.sg/grtf-samh" rel="noopener nofollow" target="_blank">https://go.gov.sg/grtf-samh</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Navigating the Teenage Terrain" src="/images/WhatsApp_Image_2025_01_23_at_14_07_47.jpg">
+</div>
 <h3>For Papa and Mama - Bukit Panjang Town: Lean On Me (Parenting in the Digital Age) @ North West</h3>
 <p></p>
 <p><strong>Join us to empower your Digital Parenting:</strong>

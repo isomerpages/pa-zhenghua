@@ -11,7 +11,18 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <img style="width: 100%" height="auto" width="100%" alt="march" src="/images/march.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-kopi-o-kosong-2-packets-lipton-tea-1-box-green-tea-1-box-19923389" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jasmine Rice" src="/images/kopi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">March Deal</div><div class="isomer-card-description">Kopi-O Kosong (2 packets) or Lipton Tea (1 box) or Green Tea (1 box)</div><div class="isomer-card-link">While stocks last!</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jasmine Rice" src="/images/kopi.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">March Deal [SOLD OUT]</div>
+<div class="isomer-card-description">Kopi-O Kosong (2 packets) or Lipton Tea (1 box) or Green Tea (1 box)</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

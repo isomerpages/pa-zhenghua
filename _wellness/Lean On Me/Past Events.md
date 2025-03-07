@@ -291,4 +291,13 @@ for everyone.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="b" src="/images/WhatsApp_Image_2025_01_20_at_6_53_02_PM_5.jpg">
 </div>
+<h3>Navigating the Teenage Terrain</h3>
+<p>A talk to equip Parents/Guardians of Youths between 12 - 25 years old
+with information on how to support their child's wellness, build communication
+and connection.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_23_at_14_07_47.jpg">
+</div>
+<p></p>
 <p></p>

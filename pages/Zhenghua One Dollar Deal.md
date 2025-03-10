@@ -6,12 +6,24 @@ description: Zhenghua One Dollar Deal
 image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
-<h4></h4>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="march" src="/images/march.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/April_2025.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
 <div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kitchen Towel and Sardines" src="/images/Kitchen_roll_and_sardines.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">April Deal</div>
+<div class="isomer-card-description">Scott Kitchen Towel Rolls (6 rolls) or Ayam Brand Sardines (3 cans)</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -23,23 +35,12 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <div class="isomer-card-description">Kopi-O Kosong (2 packets) or Lipton Tea (1 box) or Green Tea (1 box)</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pokka" src="/images/photo_6325690252764759830_y.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">February Deal [SOLD OUT]</div>
-<div class="isomer-card-description">Pokka Green Tea or Pokka Oolong Tea (1 Carton - 24 packets)</div>
-</div>
-</div>
 </div>
 <blockquote>
 <p></p>
 </blockquote>
 <h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
-<p><strong>April 2025</strong>
+<p><strong>May 2025</strong>
 </p>
 <h4><em>Please note the following terms and conditions:</em></h4>
 <ul data-tight="true" class="tight">

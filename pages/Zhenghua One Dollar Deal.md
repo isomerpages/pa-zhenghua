@@ -8,7 +8,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <h2>Purchase your tickets online now!</h2>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="march" src="/images/march.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/April_2025.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
 <div class="isomer-card-grid">

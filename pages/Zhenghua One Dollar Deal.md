@@ -39,7 +39,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <p></p>
 </blockquote>
 <h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
-<p><strong>April 2025</strong>
+<p><strong>May 2025</strong>
 </p>
 <h4><em>Please note the following terms and conditions:</em></h4>
 <ul data-tight="true" class="tight">

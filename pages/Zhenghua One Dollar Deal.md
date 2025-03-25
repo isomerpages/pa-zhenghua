@@ -7,23 +7,11 @@ image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2>Purchase your tickets online now!</h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/April_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Revised_April_Poster_png.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kitchen Towel and Sardines" src="/images/Kitchen_roll_and_sardines.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">April Deal [SOLD OUT]</div>
-<div class="isomer-card-description">Scott Kitchen Towel Rolls (6 rolls) or Ayam Brand Sardines (3 cans)</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-scotts-kitchen-towel-6-rolls-or-ayam-brand-sardines-155g-3-cans-58235217" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kitchen Towel and Sardines" src="/images/Kitchen_roll_and_sardines.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">April Deal</div><div class="isomer-card-description">Scott Kitchen Towel Rolls (6 rolls) or Ayam Brand Sardines (3 cans)</div><div class="isomer-card-link">Purchase Now</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

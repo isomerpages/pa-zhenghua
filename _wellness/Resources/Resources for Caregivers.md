@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.clubheal.org.sg/services/mental-wellness-centres/" rel="noopener noreferrer nofollow" target="_blank">Club Heal</a>
+<p><a href="https://www.clubheal.sg/support-groups" rel="noopener noreferrer nofollow" target="_blank">Club Heal</a>
 </p>
 </li>
 <li>

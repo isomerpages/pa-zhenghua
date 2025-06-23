@@ -8,10 +8,21 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <h2>Purchase your tickets online now!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal_Poster___July.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal___July_Sold_Out.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-anti-bacterial-foaming-hand-soap-1-bottle-1-refill-pack-67062769" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anti-Bacterial Hand Soap and Refill" src="/images/Anti_Bacterial_Hand_Soap_and_Refill.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">July Deal</div><div class="isomer-card-description">Anti-Bacterial Foaming Hand Soap (1 Bottle and 1 Refill)</div><div class="isomer-card-link">Purchase Now</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Anti-Bacterial Hand Soap and Refill" src="/images/Anti_Bacterial_Hand_Soap_and_Refill.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">July Deal [SOLD OUT]</div>
+<div class="isomer-card-description">Anti-Bacterial Foaming Hand Soap (1 Bottle and 1 Refill)</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

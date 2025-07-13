@@ -296,8 +296,48 @@ for everyone.</p>
 with information on how to support their child's wellness, build communication
 and connection.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_23_at_14_07_47.jpg">
-</div>
+<h3>For Papa and Mama - Bukit Panjang Town: Lean On Me (Parenting in the Digital Age) @ North West</h3>
+<p>In March 2025, we successfully concluded our Parenting in the Digital
+Age workshop, where Digital Wellness Trainer &amp; Family Coach Ms Carol
+Loi shared her expertise and tips on navigating technology with young children
+and teenagers across two sessions. Participants also had the opportunity
+to discuss key takeaways in small breakout groups.</p>
+<p>We hope that parents had gained some valuable insights on digital parenting
+from the workshop!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/FB_IMG_1752369746300.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/FB_IMG_1752369738854.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/FB_IMG_1752369742086.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lean On Me/FB_IMG_1752369752899.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

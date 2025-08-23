@@ -8,7 +8,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <h2>Purchase your tickets online now!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal_Poster___August_Sold_Out.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sept_2025_One_Dollar.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-fresh-eggs-1-tray-10-eggs-76038179" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Local eggs" src="/images/Local_Eggs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">September Deal</div><div class="isomer-card-description">Local Eggs (1 Tray, 10 Eggs)</div><div class="isomer-card-link">Purchase Now</div></div></a>

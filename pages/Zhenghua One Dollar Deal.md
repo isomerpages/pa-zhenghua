@@ -11,7 +11,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal_Poster___August_Sold_Out.png">
 </div>
 <h4><em>Click on the respective links to purchase tickets for each month's deal:</em></h4>
-<div class="isomer-card-grid">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/zhenghua-one-dollar-deal-fresh-eggs-1-tray-10-eggs-76038179" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Local eggs" src="/images/Local_Eggs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">September Deal</div><div class="isomer-card-description">Local Eggs (1 Tray, 10 Eggs)</div><div class="isomer-card-link">Purchase Now</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -23,23 +23,12 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <div class="isomer-card-description">Facial Tissue Paper (8 Travel Packs, 3-Ply)</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anti-Bacterial Hand Soap and Refill" src="/images/Anti_Bacterial_Hand_Soap_and_Refill.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">July Deal [SOLD OUT]</div>
-<div class="isomer-card-description">Anti-Bacterial Foaming Hand Soap (1 Bottle and 1 Refill)</div>
-</div>
-</div>
 </div>
 <blockquote>
 <p></p>
 </blockquote>
 <h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
-<p><strong>September 2025</strong>
+<p><strong>October 2025</strong>
 </p>
 <h4><em>Please note the following terms and conditions:</em></h4>
 <ul data-tight="true" class="tight">

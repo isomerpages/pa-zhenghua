@@ -16,10 +16,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.mindline.sg/youth/resource?group=mental-health-literacy" rel="noopener noreferrer nofollow" target="_blank">Mental Health Literacy</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.healthhub.sg/live-healthy/1179/helping-youth-fight-depression" rel="noopener noreferrer nofollow" target="_blank">Helping Youth Fight Depression</a>
 </p>
 </li>

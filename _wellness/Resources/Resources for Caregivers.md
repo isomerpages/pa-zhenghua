@@ -8,10 +8,6 @@ variant: tiptap
 <h4>Links and Downloadable Resources</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.aic.sg/body-mind/mental-health-elearning" rel="noopener noreferrer nofollow" target="_blank">eLearning on Dementia and Mental Health</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.clubheal.sg/support-groups" rel="noopener noreferrer nofollow" target="_blank">Club Heal</a>
 </p>
 </li>

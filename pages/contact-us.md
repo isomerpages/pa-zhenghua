@@ -5,12 +5,12 @@ permalink: /contact-us/
 agency_name: Zhenghua Community Club
 locations:
   - address:
-      - Blk 640A Senja Close
-      - "#01-301"
-      - Singapore 671640
+      - 1 Segar Road
+      - ""
+      - Singapore 677738
     operating_hours:
       - days: Mon - Sun
-        time: 2.00pm - 6.00pm
+        time: 10.00am - 6.00pm
         description: Closed on Public Holidays
     maps_link: ""
     title: Office
@@ -25,4 +25,5 @@ contacts:
       - email: PA_zhenghuacc@pa.gov.sg
       - other: ""
     title: Email Address
+feedback: ""
 ---

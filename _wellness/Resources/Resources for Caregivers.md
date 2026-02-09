@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.cal.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Caregivers Alliance Limited</a>
+<p><a href="https://www.mindfull.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindfull Community</a>
 </p>
 </li>
 <li>

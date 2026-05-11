@@ -12,10 +12,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.playtherapysingapore.com/playtherapyforpre-teensandteens" rel="noopener noreferrer nofollow" target="_blank">Play Therapy Singapore</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.healthhub.sg/live-healthy/1179/helping-youth-fight-depression" rel="noopener noreferrer nofollow" target="_blank">Helping Youth Fight Depression</a>
 </p>
 </li>

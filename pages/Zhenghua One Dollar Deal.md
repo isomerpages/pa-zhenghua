@@ -5,7 +5,7 @@ variant: tiptap
 description: Zhenghua One Dollar Deal
 image: /images/Zhenghua__1_Deal_Poster.png
 ---
-<h2>Purchase your tickets online now!</h2>
+<h2>Register for the upcoming One Dollar Deal now!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal___2026.jpg">
@@ -16,37 +16,11 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <blockquote>
 <p></p>
 </blockquote>
-<h4><em>Coming soon! Stay tuned for our future One Dollar Deals:</em></h4>
+<h4><em>Stay tuned for our future One Dollar Deals:</em></h4>
+<p>Coming soon</p>
+<h4><em>Frequently Asked Questions:</em></h4>
 <p></p>
-<h4><em>Please note the following terms and conditions:</em></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>This deal is exclusive to Singaporean households. Verification will be
-conducted by sighting NRIC during redemption. Singapore Permanent Residents
-(PRs) must have immediate household members who are Singaporean and residing
-at the same NRIC address.</p>
-</li>
-<li>
-<p>This deal is restricted to residents of Zhenghua. Please ensure your address
-is updated on your OnePA profile before proceeding with the purchase.</p>
-</li>
-<li>
-<p>There is a purchasing limit of 1 ticket per NRIC.</p>
-</li>
-<li>
-<p>All tickets purchased are non-refundable and non-transferable.</p>
-</li>
-<li>
-<p>The event organiser reserves the right to refund participants in case
-of contingencies that prevent the event from proceeding.</p>
-</li>
-<li>
-<p>Ticket validity is limited to the event date and time specified on the
-ticket.</p>
-</li>
-<li>
-<p>To redeem your ticket, please arrive at the stated venue during your scheduled
-time slot and show your confirmation email.</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal_2026___FAQ_250526.jpg">
+</div>
 <p></p>

@@ -6,11 +6,8 @@ third_nav_title: Resources
 variant: tiptap
 ---
 <h4>Links and Downloadable Resources</h4>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.clubheal.sg/support-groups" rel="noopener noreferrer nofollow" target="_blank">Club Heal</a>
-</p>
-</li>
 <li>
 <p><a href="https://www.mindfull.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindfull Community</a>
 </p>

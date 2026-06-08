@@ -20,10 +20,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://southeast.cdc.gov.sg/what-we-do/resilience/communitymentalwellnessgrant/" rel="noopener noreferrer nofollow" target="_blank">South East Community Employment Council</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.kindness.sg/parents-and-educators/seed-kindness-fund/" rel="noopener noreferrer nofollow" target="_blank">Seed Kindness Fund</a>
 </p>
 </li>

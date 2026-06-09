@@ -6,8 +6,9 @@ description: Zhenghua One Dollar Deal
 image: /images/Zhenghua__1_Deal_Poster.png
 ---
 <h2></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/July_deal_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua__1_Deal___2026__3_.png">
 </div>
 <h2>Register for the upcoming One Dollar Deal now!</h2>
 <p></p>
@@ -21,7 +22,7 @@ image: /images/Zhenghua__1_Deal_Poster.png
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">July Deal</div>
+<div class="isomer-card-title">July Deal [FULLY REGISTERED]</div>
 <div class="isomer-card-description">Milo Gao Kosong (1 Pack, 750G), Antibacterial Hand Soap (1 Bottle, Assorted)
 &amp; Facial Tissue (8 Packs, 3 Ply)</div>
 </div>

@@ -13,7 +13,19 @@ image: /images/Zhenghua__1_Deal_Poster.png
 <p></p>
 <h4></h4>
 <h4><em>Click on the respective link to register for the upcoming deal:</em></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/zhonedollardealformsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Milo Gao Kosong (1 Pack, 750G), Antibacterial Hand Soap (1 Bottle, Assorted) &amp; Facial Tissue (8 Packs, 3 Ply)" src="/images/Zhenghua__1_Deal___2026__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">July Deal</div><div class="isomer-card-description">Milo Gao Kosong (1 Pack, 750G), Antibacterial Hand Soap (1 Bottle, Assorted) &amp; Facial Tissue (8 Packs, 3 Ply)</div><div class="isomer-card-link">Register Now</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Milo Gao Kosong (1 Pack, 750G), Antibacterial Hand Soap (1 Bottle, Assorted) &amp; Facial Tissue (8 Packs, 3 Ply)" src="/images/Zhenghua__1_Deal___2026__1_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">July Deal</div>
+<div class="isomer-card-description">Milo Gao Kosong (1 Pack, 750G), Antibacterial Hand Soap (1 Bottle, Assorted)
+&amp; Facial Tissue (8 Packs, 3 Ply)</div>
+</div>
+</div>
 </div>
 <blockquote>
 <p></p>

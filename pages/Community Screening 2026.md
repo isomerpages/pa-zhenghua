@@ -11,11 +11,11 @@ and neighbours, and join us for big goals, loud cheers and GOAL-den memories
 right here in Zhenghua!</p>
 <hr>
 <h2>Upcoming matches:</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>29 June 2026, 3:00 AM: Group A Second Place vs Group B Second Place</p>
-</li>
-</ul>
+<p>Stay tuned for more details!</p>
 <p></p>
+<h3>View the full list of screening matches at Zhenghua CC here:</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WC_Match_Social_Template__Blank_1_.png">
+</div>
 <p></p>

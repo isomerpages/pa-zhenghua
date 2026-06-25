@@ -164,6 +164,7 @@ right here in Zhenghua!</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Game On, Zhenghua!</h3>
 <p>Feel the World Cup fever beyond the big screen with our specially curated
 engagement activities, fun booths, and exciting giveaways!</p>

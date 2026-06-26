@@ -118,7 +118,7 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2:00 AM - TBC vs TBC</p>
+<p>2:00 AM - Australia vs TBC</p>
 </li>
 <li>
 <p>6:00 AM - Argentina vs TBC</p>

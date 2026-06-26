@@ -1,0 +1,5 @@
+collections:
+  world-cup-2026:
+    output: true
+    order:
+      - Live Screening 2026.md

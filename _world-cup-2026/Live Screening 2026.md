@@ -46,13 +46,13 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1:00 AM - Brazil vs TBC</p>
+<p>1:00 AM - Brazil vs Japan</p>
 </li>
 <li>
 <p>4:30 AM - Germany vs TBC</p>
 </li>
 <li>
-<p>9:00 AM - TBC vs Morocco</p>
+<p>9:00 AM - Netherlands vs Morocco</p>
 </li>
 </ul>
 </td>
@@ -64,7 +64,7 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1:00 AM - TBC vs TBC</p>
+<p>1:00 AM - Côte d'Ivoire vs TBC</p>
 </li>
 <li>
 <p>5:00 AM - TBC vs TBC</p>
@@ -88,7 +88,7 @@ right here in Zhenghua!</p>
 <p>4:00 AM - TBC vs TBC</p>
 </li>
 <li>
-<p>8:00 AM - USA vs TBC</p>
+<p>8:00 AM - USA vs Bosnia and Herzegovina</p>
 </li>
 </ul>
 </td>
@@ -173,7 +173,7 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <p>Catch the fun on these special dates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Stay tuned for more details!</p>
+<p>30 June 2026, 1:00 AM</p>
 </li>
 </ul>
 <hr>

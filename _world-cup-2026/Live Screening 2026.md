@@ -180,6 +180,6 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <h4>View the full list of screening matches at Zhenghua CC here:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WC_Match_Social_Template__Blank_1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July__1_.png">
 </div>
 <p></p>

@@ -49,7 +49,7 @@ right here in Zhenghua!</p>
 <p>1:00 AM - Brazil vs Japan</p>
 </li>
 <li>
-<p>4:30 AM - Germany vs TBC</p>
+<p>4:30 AM - Germany vs Paraguay</p>
 </li>
 <li>
 <p>9:00 AM - Netherlands vs Morocco</p>
@@ -64,13 +64,13 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1:00 AM - Côte d'Ivoire vs TBC</p>
+<p>1:00 AM - Côte d'Ivoire vs Norway</p>
 </li>
 <li>
-<p>5:00 AM - TBC vs TBC</p>
+<p>5:00 AM - France vs Sweden</p>
 </li>
 <li>
-<p>9:00 AM - Mexico vs TBC</p>
+<p>9:00 AM - Mexico vs Ecuador</p>
 </li>
 </ul>
 </td>
@@ -82,10 +82,10 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>12:00 AM - TBC vs TBC</p>
+<p>12:00 AM - England vs Congo DR</p>
 </li>
 <li>
-<p>4:00 AM - TBC vs TBC</p>
+<p>4:00 AM - Belgium vs Senegal</p>
 </li>
 <li>
 <p>8:00 AM - USA vs Bosnia and Herzegovina</p>
@@ -100,13 +100,13 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>3:00 AM - TBC vs TBC</p>
+<p>3:00 AM - Spain vs Austria</p>
 </li>
 <li>
-<p>7:00 AM - TBC vs TBC</p>
+<p>7:00 AM - Portugal vs Croatia</p>
 </li>
 <li>
-<p>11:00 AM - Switzerland vs TBC</p>
+<p>11:00 AM - Switzerland vs Algeria</p>
 </li>
 </ul>
 </td>
@@ -118,13 +118,13 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2:00 AM - Australia vs TBC</p>
+<p>2:00 AM - Australia vs Egypt</p>
 </li>
 <li>
-<p>6:00 AM - Argentina vs TBC</p>
+<p>6:00 AM - Argentina vs Cabo Verde</p>
 </li>
 <li>
-<p>9:30 AM - TBC vs TBC</p>
+<p>9:30 AM - Colombia vs Ghana</p>
 </li>
 </ul>
 </td>
@@ -180,6 +180,6 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <h4>View the full list of screening matches at Zhenghua CC here:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WC_Match_Social_Template__Blank_1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July__1_.png">
 </div>
 <p></p>

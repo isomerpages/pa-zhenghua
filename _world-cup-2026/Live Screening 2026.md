@@ -175,6 +175,21 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <li>
 <p>30 June 2026, 1:00 AM</p>
 </li>
+<li>
+<p>30 June 2026, 9:00 AM</p>
+</li>
+<li>
+<p>1 July 2026, 5:00 AM</p>
+</li>
+<li>
+<p>2 July 2026, 12:00 AM</p>
+</li>
+<li>
+<p>3 July 2026, 7:00 AM</p>
+</li>
+<li>
+<p>4 July 2026, 6:00 AM</p>
+</li>
 </ul>
 <hr>
 <h4>View the full list of screening matches at Zhenghua CC here:</h4>

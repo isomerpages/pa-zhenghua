@@ -29,18 +29,6 @@ right here in Zhenghua!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 June 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>3:00 AM - South Africa vs Canada</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +142,7 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1:00 AM - TBC vs TBC</p>
+<p>1:00 AM - Canada vs TBC</p>
 </li>
 <li>
 <p>5:00 AM - TBC vs TBC</p>
@@ -195,6 +183,6 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <h4>View the full list of screening matches at Zhenghua CC here:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July.png">
 </div>
 <p></p>

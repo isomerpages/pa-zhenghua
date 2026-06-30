@@ -142,10 +142,10 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1:00 AM - Canada vs TBC</p>
+<p>1:00 AM - Canada vs Morocco</p>
 </li>
 <li>
-<p>5:00 AM - TBC vs TBC</p>
+<p>5:00 AM - Paraguay vs TBC</p>
 </li>
 </ul>
 </td>
@@ -183,6 +183,6 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <h4>View the full list of screening matches at Zhenghua CC here:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July__2_.png">
 </div>
 <p></p>

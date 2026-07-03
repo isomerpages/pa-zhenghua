@@ -10,7 +10,7 @@ we screen the knockout rounds all the way to the finals! Jio your friends
 and neighbours, and join us for big goals, loud cheers and GOAL-den memories
 right here in Zhenghua!</p>
 <hr>
-<h2>Upcoming week's matches:</h2>
+<h2>Upcoming matches:</h2>
 <p><strong>Round of 32 Matches (from 29 June to 4 July):</strong>
 </p>
 <table style="minWidth: 50px">
@@ -119,7 +119,7 @@ right here in Zhenghua!</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Round of 16 Matches (on 5 July):</strong>
+<p><strong>Round of 16 Matches (from 5 July to 8 July):</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -145,7 +145,101 @@ right here in Zhenghua!</p>
 <p>1:00 AM - Canada vs Morocco</p>
 </li>
 <li>
-<p>5:00 AM - Paraguay vs TBC</p>
+<p>5:00 AM - Paraguay vs France</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>4:00 AM - Brazil vs Norway</p>
+</li>
+<li>
+<p>8:00 AM - Mexico vs England</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3:00 AM - Portugal vs Spain</p>
+</li>
+<li>
+<p>8:00 AM - USA vs Belgium</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>12:00 AM - TBC vs TBC</p>
+</li>
+<li>
+<p>4:00 AM - TBC vs TBC</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Quarter-Finals (from 10 July to 12 July):</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>4:00 AM - TBC vs TBC</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3:00 AM - TBC vs TBC</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>5:00 AM - TBC vs TBC</p>
+</li>
+<li>
+<p>9:00 AM - TBC vs TBC</p>
 </li>
 </ul>
 </td>

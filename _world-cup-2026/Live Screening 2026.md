@@ -29,60 +29,6 @@ right here in Zhenghua!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1:00 AM - Brazil vs Japan</p>
-</li>
-<li>
-<p>4:30 AM - Germany vs Paraguay</p>
-</li>
-<li>
-<p>9:00 AM - Netherlands vs Morocco</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1:00 AM - Côte d'Ivoire vs Norway</p>
-</li>
-<li>
-<p>5:00 AM - France vs Sweden</p>
-</li>
-<li>
-<p>9:00 AM - Mexico vs Ecuador</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>12:00 AM - England vs Congo DR</p>
-</li>
-<li>
-<p>4:00 AM - Belgium vs Senegal</p>
-</li>
-<li>
-<p>8:00 AM - USA vs Bosnia and Herzegovina</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +78,7 @@ right here in Zhenghua!</p>
 <p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Timings:</p>
+<p>Timings</p>
 </th>
 </tr>
 <tr>
@@ -205,6 +151,16 @@ right here in Zhenghua!</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Timings</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>10 July 2026</p>

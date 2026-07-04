@@ -11,60 +11,7 @@ and neighbours, and join us for big goals, loud cheers and GOAL-den memories
 right here in Zhenghua!</p>
 <hr>
 <h2>Upcoming matches:</h2>
-<p><strong>Round of 32 Matches (from 29 June to 4 July):</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Timings</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>3:00 AM - Spain vs Austria</p>
-</li>
-<li>
-<p>7:00 AM - Portugal vs Croatia</p>
-</li>
-<li>
-<p>11:00 AM - Switzerland vs Algeria</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>2:00 AM - Australia vs Egypt</p>
-</li>
-<li>
-<p>6:00 AM - Argentina vs Cabo Verde</p>
-</li>
-<li>
-<p>9:30 AM - Colombia vs Ghana</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>Round of 16 Matches (from 5 July to 8 July):</strong>
 </p>
 <table style="minWidth: 50px">
@@ -136,7 +83,7 @@ right here in Zhenghua!</p>
 <p>12:00 AM - Argentina vs Egypt</p>
 </li>
 <li>
-<p>4:00 AM - TBC vs TBC</p>
+<p>4:00 AM - Switzerland vs Colombia</p>
 </li>
 </ul>
 </td>

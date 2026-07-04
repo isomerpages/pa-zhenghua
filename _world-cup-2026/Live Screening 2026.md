@@ -10,8 +10,9 @@ we screen the knockout rounds all the way to the finals! Jio your friends
 and neighbours, and join us for big goals, loud cheers and GOAL-den memories
 right here in Zhenghua!</p>
 <hr>
-<h2>Upcoming week's matches:</h2>
-<p><strong>Round of 32 Matches (from 29 June to 4 July):</strong>
+<h2>Upcoming matches:</h2>
+<p></p>
+<p><strong>Round of 16 Matches (from 5 July to 8 July):</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -29,114 +30,6 @@ right here in Zhenghua!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1:00 AM - Brazil vs Japan</p>
-</li>
-<li>
-<p>4:30 AM - Germany vs Paraguay</p>
-</li>
-<li>
-<p>9:00 AM - Netherlands vs Morocco</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1:00 AM - Côte d'Ivoire vs Norway</p>
-</li>
-<li>
-<p>5:00 AM - France vs Sweden</p>
-</li>
-<li>
-<p>9:00 AM - Mexico vs Ecuador</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>12:00 AM - England vs Congo DR</p>
-</li>
-<li>
-<p>4:00 AM - Belgium vs Senegal</p>
-</li>
-<li>
-<p>8:00 AM - USA vs Bosnia and Herzegovina</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>3:00 AM - Spain vs Austria</p>
-</li>
-<li>
-<p>7:00 AM - Portugal vs Croatia</p>
-</li>
-<li>
-<p>11:00 AM - Switzerland vs Algeria</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>2:00 AM - Australia vs Egypt</p>
-</li>
-<li>
-<p>6:00 AM - Argentina vs Cabo Verde</p>
-</li>
-<li>
-<p>9:30 AM - Colombia vs Ghana</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Round of 16 Matches (on 5 July):</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Timings:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,7 +38,111 @@ right here in Zhenghua!</p>
 <p>1:00 AM - Canada vs Morocco</p>
 </li>
 <li>
-<p>5:00 AM - Paraguay vs TBC</p>
+<p>5:00 AM - Paraguay vs France</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>4:00 AM - Brazil vs Norway</p>
+</li>
+<li>
+<p>8:00 AM - Mexico vs England</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3:00 AM - Portugal vs Spain</p>
+</li>
+<li>
+<p>8:00 AM - USA vs Belgium</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>12:00 AM - Argentina vs Egypt</p>
+</li>
+<li>
+<p>4:00 AM - Switzerland vs Colombia</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Quarter-Finals (from 10 July to 12 July):</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Timings</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>4:00 AM - TBC vs TBC</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3:00 AM - TBC vs TBC</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>5:00 AM - TBC vs TBC</p>
+</li>
+<li>
+<p>9:00 AM - TBC vs TBC</p>
 </li>
 </ul>
 </td>
@@ -161,28 +158,32 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <p>Catch the fun on these special dates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>30 June 2026, 1:00 AM</p>
+<p>5 July 2026, 5:00 AM</p>
 </li>
 <li>
-<p>30 June 2026, 9:00 AM</p>
+<p>8 July 2026, 12:00 AM</p>
 </li>
 <li>
-<p>1 July 2026, 5:00 AM</p>
+<p>10 July 2026, 4:00 AM</p>
 </li>
 <li>
-<p>2 July 2026, 12:00 AM</p>
+<p>11 July 2026, 3:00 AM</p>
 </li>
 <li>
-<p>3 July 2026, 7:00 AM</p>
+<p>12 July 2026, 5:00 AM</p>
 </li>
 <li>
-<p>4 July 2026, 6:00 AM</p>
+<p>12 July 2026, 9:00 AM</p>
 </li>
 </ul>
 <hr>
 <h4>View the full list of screening matches at Zhenghua CC here:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__29_June_to_5_July__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_SM___Website__6_to_12_July.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhenghua_Live_Screenings___29_June_to_5_July___Final_View.png">
 </div>
 <p></p>

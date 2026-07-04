@@ -158,22 +158,22 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <p>Catch the fun on these special dates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>30 June 2026, 1:00 AM</p>
+<p>5 July 2026, 5:00 AM</p>
 </li>
 <li>
-<p>30 June 2026, 9:00 AM</p>
+<p>8 July 2026, 12:00 AM</p>
 </li>
 <li>
-<p>1 July 2026, 5:00 AM</p>
+<p>10 July 2026, 4:00 AM</p>
 </li>
 <li>
-<p>2 July 2026, 12:00 AM</p>
+<p>11 July 2026, 3:00 AM</p>
 </li>
 <li>
-<p>3 July 2026, 7:00 AM</p>
+<p>12 July 2026, 5:00 AM</p>
 </li>
 <li>
-<p>4 July 2026, 6:00 AM</p>
+<p>12 July 2026, 9:00 AM</p>
 </li>
 </ul>
 <hr>

@@ -133,7 +133,7 @@ right here in Zhenghua!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>12:00 AM - TBC vs TBC</p>
+<p>12:00 AM - Argentina vs Egypt</p>
 </li>
 <li>
 <p>4:00 AM - TBC vs TBC</p>
@@ -153,7 +153,7 @@ right here in Zhenghua!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date </strong>
+<p><strong>Date</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

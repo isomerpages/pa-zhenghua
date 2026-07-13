@@ -12,7 +12,7 @@ right here in Zhenghua!</p>
 <hr>
 <h2>Upcoming matches:</h2>
 <p></p>
-<p><strong>Round of 16 Matches (from 5 July to 8 July):</strong>
+<p><strong>Semi-Finals:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,67 +30,31 @@ right here in Zhenghua!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 July 2026</p>
+<p>15 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1:00 AM - Canada vs Morocco</p>
-</li>
-<li>
-<p>5:00 AM - Paraguay vs France</p>
+<p>3:00 AM - France vs Spain</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 July 2026</p>
+<p>16 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>4:00 AM - Brazil vs Norway</p>
-</li>
-<li>
-<p>8:00 AM - Mexico vs England</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>3:00 AM - Portugal vs Spain</p>
-</li>
-<li>
-<p>8:00 AM - USA vs Belgium</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>12:00 AM - Argentina vs Egypt</p>
-</li>
-<li>
-<p>4:00 AM - Switzerland vs Colombia</p>
+<p>3:00 AM - England vs Argentina</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Quarter-Finals (from 10 July to 12 July):</strong>
+<p><strong>3rd Place Play-Off (19 July 2026):</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -99,50 +63,51 @@ right here in Zhenghua!</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timings</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>4:00 AM - TBC vs TBC</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>3:00 AM - TBC vs TBC</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 July 2026</p>
+<p>19 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>5:00 AM - TBC vs TBC</p>
 </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Finals (20 July 2026):</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
-<p>9:00 AM - TBC vs TBC</p>
+<p>3:00 AM - TBC vs TBC</p>
 </li>
 </ul>
 </td>
@@ -158,22 +123,16 @@ a chance to bring home some matchday goodies before the action kicks off.</p>
 <p>Catch the fun on these special dates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>5 July 2026, 5:00 AM</p>
+<p>15 July 2026, 3:00 AM</p>
 </li>
 <li>
-<p>8 July 2026, 12:00 AM</p>
+<p>16 July 2026, 3:00 AM</p>
 </li>
 <li>
-<p>10 July 2026, 4:00 AM</p>
+<p>19 July 2026, 5:00 AM</p>
 </li>
 <li>
-<p>11 July 2026, 3:00 AM</p>
-</li>
-<li>
-<p>12 July 2026, 5:00 AM</p>
-</li>
-<li>
-<p>12 July 2026, 9:00 AM</p>
+<p>20 July 2026, 3:00 AM</p>
 </li>
 </ul>
 <hr>
